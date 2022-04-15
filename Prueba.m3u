@@ -1,5 +1,4 @@
 #EXTINF:-1 tvg-id="OrbitaFM.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="" group-title="Musica",Órbita FM 
-#EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/OrbitaFM/index.m3u8
 #EXTINF:-1,POR :  Nickelodeon HD
 #EXTVLCOPT:http-user-agent=20100101
