@@ -287,12 +287,14 @@ http://190.83.119.67:8000/play/a0u9/index.m3u8
 http://190.83.119.67:8000/play/a0ua/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" tvg-country="MEXICO",Cine Premiere
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=901&deviceId=5cf968040ab7d8f181e6a68b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0tHU0hC.jpg" tvg-country="ESTADOS UNIDOS",Cine Sureno
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tHU0hC.jpg" tvg-country="ESTADOS UNIDOS",Cine Sureño
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" tvg-country="ESTADOS UNIDOS",Cine terror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=907&deviceId=5d8d180092e97a5e107638d3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" tvg-country="ARGENTINA",CINEAR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.citytv.com.co/assets/images/logo.png" tvg-country="COLOMBIA",City TV
+https://ott.streann.com/loadbalancer/services/v1/channels-secure/5d7ace822cdcdf7a7c51fe50/playlist.m3u8?access_token=98d4d924-fc44-4a19-8a76-7aebdc0d4993&device-id=ut0wYSw0uCCgcTY16HRb82ZsLwxhoc3GmJLdwXZBHb3DZpAHTr&device-type=web&device-name=web&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20de%20Colombia),hora%20est%C3%A1ndar%20de%20Colombia&dvrTime=3600
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" tvg-country="ARGENTINA",Ciudad TV Resistencia
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" tvg-country="ESPAÑA",Clan
