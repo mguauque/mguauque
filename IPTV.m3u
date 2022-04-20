@@ -218,6 +218,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" tvg-country="ARGENTINA",CINEAR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.citytv.com.co/assets/images/logo.png" tvg-country="COLOMBIA",City TV
+https://ott.streann.com/loadbalancer/services/v1/channels-secure/5d7ace822cdcdf7a7c51fe50/playlist.m3u8?access_token=98d4d924-fc44-4a19-8a76-7aebdc0d4993&device-id=ut0wYSw0uCCgcTY16HRb82ZsLwxhoc3GmJLdwXZBHb3DZpAHTr&device-type=web&device-name=web&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20de%20Colombia),hora%20est%C3%A1ndar%20de%20Colombia&dvrTime=3600
 https://ott.streann.com/loadbalancer/services/v1/channels-secure/5d7ace822cdcdf7a7c51fe50/playlist.m3u8?access_token=34c6c55e-c4c4-4fc6-8659-249c827a3b14&device-id=Qv2CjmCE5Q1cDQ8jVqSaX6UxgcyHwEl1LWtktlppPUsRZgPTGJ&device-type=web&device-name=web&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20de%20Colombia),hora%20est%C3%A1ndar%20de%20Colombia&dvrTime=3600
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" tvg-country="ARGENTINA",Ciudad TV Resistencia
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
@@ -569,7 +570,9 @@ http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/4f/4e/15/4f4e150d-85d9-9aba-25e8-3e76fa374a25/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png" tvg-country="MEXICO",RCG MEDIA
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vgDDbPV0ZZw/UiffhhK_tCI/AAAAAAAAAn8/Fxgum0y5LTM/s1600/rcn.jpg" tvg-country="COLOMBIA",RCN
+https://www.dailymotion.com/cdn/live/video/x7vyv0z.m3u8?sec=92MOLwNeefsP3yChf6Y1nF9NU0FAyuGDzz72tdENJDy_RcUIzbhRFpgB3Ph-cIJIydOI6ZgS6XBrLTuyQEQtAA&dmTs=261375&dmV1st=B5732FE0E0E785FBB446CBE831B04124
 https://www.dailymotion.com/cdn/live/video/x7vyv0z.m3u8?sec=92MOLwNeefsP3yChf6Y1nMXyA-si0ofAhsXoTHw74fW_W2tGjIsGsjZJcgTC_r6HC4i_dy5PE60huStJOeDbLg&dmTs=261375&dmV1st=B5732FE0E0E785FBB446CBE831B04124
+https://www.dailymotion.com/cdn/live/video/x7vyv0z.m3u8?sec=92MOLwNeefsP3yChf6Y1nPjh0b36CE4Lb4rlz-upcE2IEat2qv1AaC4EeBU5DvJozDSFUzeGn2g2pWO3QevsxA&dmTs=261375&dmV1st=B5732FE0E0E785FBB446CBE831B04124
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/622/954/png-clipart-rcn-television-colombia-television-caracol-television-venezolana-de-television-soap-design-television-angle.png" tvg-country="COLOMBIA",RCN Novelas
 http://45.71.185.142:8500/play/a03i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/povZeHm.png" tvg-country="REP DOMINICANA",Ready TV Canal 6
