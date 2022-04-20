@@ -139,8 +139,8 @@ http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 http://190.83.119.67:8000/play/a0rl/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" tvg-country="ARGENTINA",Canal 12 PuertoMadryn
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Canal-13-Logo-1961.jpg" tvg-country="EL SALVADOR",Canal 13
-http://190.83.119.67:8000/play/a0ri/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Canal-13-Logo-1961.jpg" tvg-country="PARAGUAY",Canal 13
+https://stream.rpc.com.py/live/trece.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j2lPlFe.png" tvg-country="ARGENTINA",Canal 13 LaRioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1499393647527153668/jpOqwJqH_400x400.png" tvg-country="NICARAGUA",Canal 14
