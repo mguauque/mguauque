@@ -38,7 +38,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0146
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.x-osyB3nF6fG2rb7BY0paQHaHa%26pid%3DApi&f=1" tvg-country="MEXICO",90`s Eurodance Mix
 https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
 #EXTINF:-1 tvg-logo="https://assets.historyplay.tv/aela/public/images/2021/11/26/generic-thumb.jpg" tvg-country="EL SALVADOR",A&E
-http://190.83.119.67:8000/play/a0t8/index.m3u8
+http://45.71.185.142:8500/play/a01i
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvgc4HjCTiXOSRA9wfRzFgPV-XO1e2cBEUaA&usqp=CAU" tvg-country="EL SALVADOR",A&E HD
 http://190.83.119.67:8000/play/a0r7/index.m3u8
 #EXTINF:-1 tvg-logo="https://atreseries.atresmedia.com/public/img/atreseries/apple-touch-icon-180x180.png" tvg-country="EL SALVADOR",A3Series
@@ -82,7 +82,7 @@ https://movil.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1 tvg-logo="https://autonomatv.cl/wp-content/uploads/2021/07/AUTONOMA-tv-1-ok-chico-2-272x147.png" tvg-country="CHILE",Autonoma TV
 https://5eff35271151c.streamlock.net:1936/8144/8144/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/articulos/49000/49583_abba071f13-t.jpg" tvg-country="EL SALVADOR",AXN
-http://190.83.119.67:8000/play/a0qp/index.m3u8
+http://45.71.185.142:8500/play/a02y
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/AXN_HD_2015.svg/revision/latest?cb=20200106130819&path-prefix=es" tvg-country="EL SALVADOR",AXN HD
 http://190.83.119.67:8000/play/a0um/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Az_Clic_2017.png/revision/latest?cb=20191211180120&path-prefix=es" tvg-country="EL SALVADOR",AZ click HD
@@ -173,7 +173,8 @@ https://59f1cbe63db89.streamlock.net:1443/canal/canal/playlist.m3u8
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" tvg-country="ARGENTINA",Canal 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canal33.tv/home/wp-content/uploads/2019/08/200.png" tvg-country="EL SALVADOR",Canal 33
+#EXTINF:-1 tvg-logo="https://canal33.tv/
+/wp-content/uploads/2019/08/200.png" tvg-country="EL SALVADOR",Canal 33
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1zJpDIX.png" tvg-country="ESPAÑA",Canal 33 Madrid
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
@@ -242,7 +243,7 @@ https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Cartoon_Network_HD.svg/revision/latest?cb=20160521193914" tvg-country="EL SALVADOR",Cartoon Network HD
 http://190.83.119.67:8000/play/a0pp/index.m3u8
 #EXTINF:-1 tvg-logo="https://pngset.com/images/cartoon-network-logo-cartoon-network-hd-logo-text-alphabet-symbol-trademark-transparent-png-962001.png" tvg-country="PANAMA",Cartoon Network
-http://190.83.119.67:8000/play/a0q8/index.m3u8
+http://45.71.185.142:8500/play/a00f
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/Q5GZ2WZL6VHNVCFVJK72P7UIHA.jpg" tvg-country="EL SALVADOR",Cartoonito
 http://190.83.119.67:8000/play/a0qa/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" tvg-country="ARGENTINA",Catacama TV
@@ -263,6 +264,8 @@ http://190.83.119.67:8000/play/a0t0/index.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=912&deviceId=604928d54a4f730007ff76bc&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://gobernanzasdigital.com/wp-content/uploads/2020/09/CERTV_logo.jpg" tvg-country="EL SALVADOR",CER TV
 http://190.83.119.67:8000/play/a0to/index.m3u8
+#EXTINF:-1 tvg-logo=""https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette3.wikia.nocookie.net%2Flogopedia%2Fimages%2Fd%2Fd3%2FCinecanal.png%2Frevision%2Flatest%3Fcb%3D20160930215844&f=1&nofb=1, Cinecanal
+http://45.71.185.142:8500/play/a005
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-H8-Pfq2IYLw/V-_Re_1UPII/AAAAAAAABBw/cIKldEqScW0sKc1xN_RLz82l_zEC7svPQCLcB/s1600/canalrural-logo2016.png" tvg-country="ARGENTINA",Rural 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0011
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZlUGBf.jpg" tvg-country="ARGENTINA",Chacra TV
@@ -286,7 +289,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f513564e4622a0007c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" tvg-country="EL SALVADOR",Cine Latino
 http://190.83.119.67:8000/play/a0u9/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" tvg-country="EL SALVADOR",Cine Max
-http://190.83.119.67:8000/play/a0ua/index.m3u8
+http://45.71.185.142:8500/play/a02w
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" tvg-country="MEXICO",Cine Premiere
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=901&deviceId=5cf968040ab7d8f181e6a68b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0tHU0hC.jpg" tvg-country="ESTADOS UNIDOS",Cine Sureño
@@ -304,7 +307,7 @@ https://rtvelivestreamv3.akamaized.net/clan/clan_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Claro.svg" tvg-country="PANAMA",Claro
 http://190.83.119.67:8000/play/a0py/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5692_7_22692.png" tvg-country="EL SALVADOR",Claro Cinema
-http://190.83.119.67:8000/play/a0th/index.m3u8
+http://45.71.185.142:8500/play/a03r
 #EXTINF:-1 tvg-logo="https://www.wallpaperuse.com/wallp/80-807348_m.png" tvg-country="PANAMA",Claro HD
 http://190.83.119.67:8000/play/a0po/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/1_57.png?itok=ZblXbDTS" tvg-country="EL SALVADOR",Claro Musica
@@ -350,27 +353,29 @@ http://190.83.119.67:8000/play/a0rp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" tvg-country="REP DOMINICANA",Digital Vision
 https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ideakreativa.net/wp-content/uploads/2019/04/discover-nuevo-logo.jpg" tvg-country="EL SALVADOR",Discovery Channel
-http://190.83.119.67:8000/play/a0ta/index.m3u8
+http://45.71.185.142:8500/play/a018
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_NTg9XY8vAti-iMxwbLu0bfw3N8agUx7tOgvEIC-0UmWhc-vfpZYI-gd-fWiJAN-0ow&usqp=CAU" tvg-country="EL SALVADOR",Discovery Channel HD
 http://190.83.119.67:8000/play/a0uw/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Discovery_H%26H.png/revision/latest?cb=20190926042803&path-prefix=es" tvg-country="EL SALVADOR",Discovery Home & Health
-http://190.83.119.67:8000/play/a0u0/index.m3u8
+http://45.71.185.142:8500/play/a01w
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Investigation_Discovery_HD.png/revision/latest?cb=20200106133219&path-prefix=es" tvg-country="EL SALVADOR",Discovery ID HD
 http://190.83.119.67:8000/play/a0v1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/640px-2016_Discovery_Kids_logo.svg.png" tvg-country="EL SALVADOR",Discovery Kids
-http://190.83.119.67:8000/play/a0tv/index.m3u8
+http://45.71.185.142:8500/play/a00m
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/e/e8/Discovery_Kids_Hd_%282013%29.png/revision/latest/scale-to-width-down/250?cb=20220118201735&path-prefix=es" tvg-country="EL SALVADOR",Discovery Kids HD
 http://190.83.119.67:8000/play/a0ux/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" tvg-country="EL SALVADOR",Discovery SCIENCE
 http://190.83.119.67:8000/play/a0p0/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/640px-Discovery_Turbo.png" tvg-country="EL SALVADOR",Discovery Turbo
-http://190.83.119.67:8000/play/a0tz/index.m3u8
+http://45.71.185.142:8500/play/a039
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/360-3607895_discovery-world-channel-logo.png" tvg-country="EL SALVADOR",Discovery World HD
 http://190.83.119.67:8000/play/a0uy/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Disney_wordmark.svg/1200px-Disney_wordmark.svg.png" tvg-country="EL SALVADOR",Disney
-http://190.83.119.67:8000/play/a0tx/index.m3u8
+http://45.71.185.142:8500/play/a017
 #EXTINF:-1 tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/8f5d89c3-4bae-4279-9517-76d8cd1a94b7" tvg-country="EL SALVADOR",Disney Junior
-http://190.83.119.67:8000/play/a0qb/index.m3u8
+http://45.71.185.142:8500/play/a013
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.bubbleblabber.com/wp-content/uploads/2014/02/Logo_Disney_XD.svg_.png", Disney XD
+http://45.71.185.142:8500/play/a002
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----DW.png" tvg-country="ARGENTINA",DW
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-country="ESPAÑA",DW Espanol
@@ -468,11 +473,11 @@ http://190.108.83.142:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/colorLogoPNG.png" tvg-country="PERU",Foodies
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=930&deviceId=5d8d0fbaa8742fa3093899da&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/FXlatino2005.svg/revision/latest?cb=20210618201226&path-prefix=es" tvg-country="EL SALVADOR",FX
-http://190.83.119.67:8000/play/a0s6/index.m3u8
+http://45.71.185.142:8500/play/a030
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/fxhd.jpg" tvg-country="EL SALVADOR",FX HD
 http://190.83.119.67:8000/play/a0ra/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png" tvg-country="EL SALVADOR",FX Movies
-http://190.83.119.67:8000/play/a0u7/index.m3u8
+http://45.71.185.142:8500/play/a00t
 #EXTINF:-1 tvg-logo="https://clients.devilleartstudios.com/img/grilla/fxmhd.png" tvg-country="EL SALVADOR",FX Movies HD
 http://190.83.119.67:8000/play/a0rc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" tvg-country="ESPAÑA",Galicia HD
@@ -496,23 +501,23 @@ http://190.83.119.67:8000/play/a0sa/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HR3G3Ie.png" tvg-country="ESPAÑA",Hamaika Telebista
 https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/hbo.svg" tvg-country="EL SALVADOR",HBO
-http://190.83.119.67:8000/play/a0ud/index.m3u8
+http://45.71.185.142:8500/play/a02v
 #EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" tvg-country="EL SALVADOR",HBO HD
 http://190.83.119.67:8000/play/a0pr/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" tvg-country="EL SALVADOR",HBO+
-http://190.83.119.67:8000/play/a0uf/index.m3u8
+http://45.71.185.142:8500/play/a010
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" tvg-country="EL SALVADOR",HBO+ HD
 http://190.83.119.67:8000/play/a0pt/index.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png" tvg-country="EL SALVADOR",HBO 2
-http://190.83.119.67:8000/play/a0ue/index.m3u8
+http://45.71.185.142:8500/play/a00z
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/24/399/png-transparent-hbo-2-television-channel-hbo-hd-hbo-television-text-logo-thumbnail.png" tvg-country="EL SALVADOR",HBO 2 HD
 http://190.83.119.67:8000/play/a0ps/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" tvg-country="EL SALVADOR",HBO Family
-http://190.83.119.67:8000/play/a0ug/index.m3u8
+http://45.71.185.142:8500/play/a012
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1157_6_8916.png" tvg-country="EL SALVADOR",HBO Family HD
 http://190.83.119.67:8000/play/a0pu/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" tvg-country="EL SALVADOR",HBO XTREME
-http://190.83.119.67:8000/play/a0uh/index.m3u8
+http://45.71.185.142:8500/play/a011
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" tvg-country="EL SALVADOR",HBO Xtreme HD
 http://190.83.119.67:8000/play/a0pv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com8YPXrcX.png" tvg-country="ECUADOR",Hechos Ecuador
@@ -520,7 +525,7 @@ http://37.187.7.106/hechostv/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" tvg-country="EL SALVADOR",HG TV
 http://190.83.119.67:8000/play/a0oz/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo-2008.png" tvg-country="EL SALVADOR",History Channel
-http://190.83.119.67:8000/play/a0tc/index.m3u8
+http://45.71.185.142:8500/play/a004
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg" tvg-country="EL SALVADOR",History Channel HD
 http://190.83.119.67:8000/play/a0qx/index.m3u8
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.t6h3Y6A2Dfmh15IgQ2be_gHaEK%26pid%3DApi&f=1" tvg-country="HUNGRIA",hit music channel
@@ -629,7 +634,7 @@ http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mty0mgJ.jpg" tvg-country="MEXICO",Moovimex
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/10/MTV-Logo.png" tvg-country="EL SALVADOR",MTV
-http://190.83.119.67:8000/play/a0u4/index.m3u8
+http://45.71.185.142:8500/play/a008
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG-1641928405432.png" tvg-country="EL SALVADOR",MTV Pluto
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=953&deviceId=5cf96d351652631e36d4331f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/rYDUvJgOVELMg4lk8VHKBCBS5OyxFf69yPaUiSVUkGEIEUPgh3Uab8ZBXC9SWkop5lSICyO7l3w=s900-c-k-c0x00ffffff-no-rj" tvg-country="EL SALVADOR",MTV 00s
@@ -669,9 +674,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7b47f12a455900078
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60493045fbb5e50007b36f4d/colorLogoPNG.png" tvg-country="ARGENTINA",Naruto en español
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=973&deviceId=60493045fbb5e50007b36f4d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/86/425/png-transparent-roku-national-geographic-television-channel-nat-geo-fox-hd-national-geographic-television-angle-text.png" tvg-country="EL SALVADOR",Nat Geo HD
-http://190.83.119.67:8000/play/a0ut/index.m3u8
+http://45.71.185.142:8500/play/a003
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Nat_Geo_Kids_%282017%29.png/revision/latest?cb=20200126150715&path-prefix=es" tvg-country="EL SALVADOR",Nat Geo Kids
-http://190.83.119.67:8000/play/a0s5/index.m3u8
+http://45.71.185.142:8500/play/a00e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1024px-National_Geographic_Wild_logo.svg.png" tvg-country="EL SALVADOR",Nat Geo Wild
 http://190.83.119.67:8000/play/a0s9/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-National-Geographic.png" tvg-country="EL SALVADOR",National Geographic
@@ -685,11 +690,11 @@ http://190.83.119.67:8000/play/a0rw/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG-1631631965767.png" tvg-country="PANAMA",Nick Jr. en español
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=976&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZaIKiF9b3RmNcGUCivqU2qFs7BmRBlLxZg7sZRLx4E6M5HPMfEuT32UMMAiyKGjD6mBc&usqp=CAU" tvg-country="EL SALVADOR",NICK JR
-http://190.83.119.67:8000/play/a0q9/index.m3u8
+http://45.71.185.142:8500/play/a038
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" tvg-country="EL SALVADOR",Nick en español
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=992&deviceId=5d8d08395f39465da6fb3ec4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Nickelodeon_1993.svg/revision/latest?cb=20210820185041&path-prefix=es" tvg-country="EL SALVADOR",Nickelodeon
-http://190.83.119.67:8000/play/a0tw/index.m3u8
+http://45.71.185.142:8500/play/a001
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/https://www.facebook.com/NicoyaTv/picture?width=320&height=320" tvg-country="COSTA RICA",NicoyaTV
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png" tvg-country="COSTA RICA",Canal 11
@@ -789,7 +794,7 @@ http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vgDDbPV0ZZw/UiffhhK_tCI/AAAAAAAAAn8/Fxgum0y5LTM/s1600/rcn.jpg" tvg-country="COLOMBIA",RCN
 https://www.dailymotion.com/cdn/live/video/x7vyv0z.m3u8?sec=92MOLwNeefsP3yChf6Y1nF9NU0FAyuGDzz72tdENJDy_RcUIzbhRFpgB3Ph-cIJIydOI6ZgS6XBrLTuyQEQtAA&dmTs=261375&dmV1st=B5732FE0E0E785FBB446CBE831B04124
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/622/954/png-clipart-rcn-television-colombia-television-caracol-television-venezolana-de-television-soap-design-television-angle.png" tvg-country="COLOMBIA",RCN Novelas
-http://190.83.119.67:8000/play/a0s7/index.m3u8
+http://45.71.185.142:8500/play/a03i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/povZeHm.png" tvg-country="REP DOMINICANA",Ready TV Canal 6
 http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" tvg-country="BOLIVIA",Red Advenir
@@ -867,11 +872,11 @@ https://www.onairport.live/sophiatv-es-live/livestream/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG-1620236333797.png" tvg-country="ESPAÑA",Spike extremo!
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=951&deviceId=5d8d11baeb31c5a43b77bf59&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/large.321216179_space-tv(1).png.559057afa15fc73a34e57637b066b575.png" tvg-country="EL SALVADOR",SPACE
-http://190.83.119.67:8000/play/a0qh/index.m3u8
+http://45.71.185.142:8500/play/a02z
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/space-latam.png" tvg-country="EL SALVADOR",SPACE HD
 http://190.83.119.67:8000/play/a0un/index.m3u8
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" tvg-country="EL SALVADOR",STAR CHANNEL
-http://190.83.119.67:8000/play/a0ty/index.m3u8
+http://45.71.185.142:8500/play/a00c
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9dHUA-k2d6ad1BQh1V-Cw673T6vnd62KI3JRYfqlwJqfCwkr8wMtp-4J04CZQpL7PUNU&usqp=CAU" tvg-country="EL SALVADOR",STAR CHANNEL HD
 http://190.83.119.67:8000/play/a0tj/index.m3u8
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png" tvg-country="EL SALVADOR",STAR Life
@@ -895,7 +900,7 @@ http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/TBNEnlace2008.png/revision/latest/scale-to-width-down/200?cb=20210330233715&path-prefix=es" tvg-country="EL SALVADOR",TBN Enlace
 http://190.83.119.67:8000/play/a0qv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/0d/67/2d0d6797fc88b8ee5536c68bab917298--design-blog-lenses.jpg" tvg-country="EL SALVADOR",TBS
-http://190.83.119.67:8000/play/a0qj/index.m3u8
+http://45.71.185.142:8500/play/a03k
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" tvg-country="EL SALVADOR",TCM
 http://190.83.119.67:8000/play/a0sh/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TDMasLogo22.png/640px-TDMasLogo22.png" tvg-country="COSTA RICA",TD+
@@ -1001,7 +1006,7 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tlc_logo_discovery.svg" tvg-country="EL SALVADOR",TLC
 http://190.83.119.67:8000/play/a0td/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" tvg-country="EL SALVADOR",TNT
-http://190.83.119.67:8000/play/a0qq/index.m3u8
+http://45.71.185.142:8500/play/a00g
 #EXTINF:-1 tvg-logo="https://cabletosaguatv.com/wp-content/uploads/tnt-series.png" tvg-country="EL SALVADOR",TNT Series
 http://190.83.119.67:8000/play/a0qi/index.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/507/75/png-clipart-tnt-series-turner-broadcasting-system-logo-tnt-television-text.png" tvg-country="EL SALVADOR",TNT Series HD
@@ -1020,6 +1025,8 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/8lajanda/picture?width=320&height=320" tvg-country="ESPAÑA",Tuya LaJanda Televison
 http://185.210.20.13:8080/0.m3u8
+#EXTINF:-1 tvg-logo="https://www.letemsvetemapplem.eu/wp-content/uploads/2020/05/Apple-TV-Logo-fb.jpg", TV+ HD
+http://45.71.185.142:8500/play/a03h
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bYWyyOcC2x4/XzgjJoWSgjI/AAAAAAAA4ZI/qdACJcxyvH0GPd6j7ptRXf-ZksfqKlIzQCK8BGAsYHg/s0/2020-08-15.jpg" tvg-country="COLOMBIA",TV Agro
 http://179.1.7.198:1935/live/TVAgroHD.stream_160p/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/centraltv-100x70.png" tvg-country="PERU",TV (Chosica)
@@ -1173,7 +1180,7 @@ http://190.83.119.67:8000/play/a0s3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k8qMo2O.jpg" tvg-country="CHILE",VTV Valle de Aconcagua
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graffica.info/wp-content/uploads/2019/11/SHIELDONLYCOLOR_LOCL_POWERPT_500px_0_0-1200x1152.png" tvg-country="EL SALVADOR",WARNER
-http://190.83.119.67:8000/play/a0t6/index.m3u8
+http://45.71.185.142:8500/play/a01a
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/eb/ad/b5/ebadb5d1fdb0292d7090b3cd7ae898ed.png" tvg-country="EL SALVADOR",WARNER HD
 http://190.83.119.67:8000/play/a0tk/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c0791e_7b52bde6331d464b82ae7aec3ef886ca~mv2.png/v1/fill/w_200,h_143,al_c,usm_0.66_1.00_0.01,enc_auto/Watan%20E%20Maa%20Tv%20Logo%20300%20Dpi.png" tvg-country="ARABIA",WATANEMAA TV
