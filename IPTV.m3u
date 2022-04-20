@@ -269,6 +269,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0011
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/charrua-tv.png" tvg-country="URUGUAI",Charrua TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/charruatvcanal
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/363bdf769b4b91716d6ebb6db72d1d4b.png",Chavo TV
+https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qRHwhND.png" tvg-country="HONDURAS",Cholusat Sur 36
 http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2d/18/54/2d185451c3cc188c39add960b94c6844.png" tvg-country="ARGENTINA",Cinco TV
@@ -311,6 +313,8 @@ http://190.83.119.67:8000/play/a0se/index.m3u8
 http://190.83.119.67:8000/play/a0p4/index.m3u8
 #EXTINF:-1 tvg-logo="https://uspto.report/TM/86068499/mark.png" tvg-country="EL SALVADOR",Claro Sports HD
 http://190.83.119.67:8000/play/a0pn/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/274ff2c35f3c15674e5e8c580baec385.png",Cloud Server Kids
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn-3.expansion.mx/dims4/default/aeb8896/2147483647/strip/true/crop/2400x1454+0+0/resize/1200x727!/format/webp/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2010%2F10%2F06%2Fcnn-espanol-nuevo-logo-imagen.jpg" tvg-country="EL SALVADOR",CNNE
 http://190.83.119.67:8000/play/a0qs/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Color_Visi%C3%B3n_2019.png/revision/latest?cb=20200919163207&path-prefix=es" tvg-country="REPUBLICA DOMINICANA",Color Vision 9
@@ -395,6 +399,8 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/p
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492a1e6361250007679665/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=920&deviceId=60492a1e6361250007679665&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/EnerGeek.chile/picture?width=300&height=300" tvg-country="CHILE",EnerGeek
 https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/0a827a2aa3eb974cf2e999e0139f6d0f.png",Energeek Radio
+https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" tvg-country="COLOMBIA",Enlace Television
 https://edge.teveo.com.co/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmJeYom6HihkAAAA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492c67f4c48700075b5d37/colorLogoPNG.png" tvg-country="COLOMBIA",Entre nosotras
@@ -427,6 +433,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6f
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Eurochannel_logo.png" tvg-country="EL SALVADOR",EURO Channel
 http://190.83.119.67:8000/play/a0s8/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/539f780c9e624b125cf20e6d66ec47c8.png", Euro Indie Music
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" tvg-country="ESPAÑA",Euronews en Espanol
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ac4755fc9224__838x390.jpg" tvg-country="EL SALVADOR",Europa HD
@@ -563,7 +571,8 @@ http://190.83.119.67:8000/play/a0os/index.m3u8
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zjjhDHIpkXU4FijdMbfTK1ozSHjszkBtlEkuz9guSk8mija1_sWJgn7nRJpKePlFpA=s200" tvg-country="EL SALVADOR",La voz de Maria
 http://190.83.119.67:8000/play/a0u2/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LatinoKidsTvUruguay/picture?width=300&height=300" tvg-country="URUGUAY",Latino Kids
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/
+KidsTvUruguay/picture?width=300&height=300" tvg-country="URUGUAY",Latino Kids
 https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oe66woA.png" tvg-country="ESPAÑA",Lebrija TV
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
@@ -711,6 +720,8 @@ http://190.83.119.67:8000/play/a0uz/index.m3u8
 https://unlimited1-us.dps.live/pautatv/pautatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B89KuHO.png" tvg-country="PERU",Pax TV
 https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5wlAQ6nLfW4/YF5I0iHgH3I/AAAAAAABA90/HsqEimRfhGARstgd044vc0ZkynUYntbTACK8BGAsYHg/s512/2021-03-26.jpg",Pequeradio TV
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG.png" tvg-country="PERU",Pelis y Popcorn
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=903&deviceId=60fb2f47c133270007327375&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELPIN.png" tvg-country="ARGENTINA",Pinamar Golf
