@@ -218,7 +218,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" tvg-country="ARGENTINA",CINEAR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.citytv.com.co/assets/images/logo.png" tvg-country="COLOMBIA",City TV
-https://ott.streann.com/loadbalancer/services/v1/channels-secure/5d7ace822cdcdf7a7c51fe50/playlist.m3u8?access_token=98d4d924-fc44-4a19-8a76-7aebdc0d4993&device-id=ut0wYSw0uCCgcTY16HRb82ZsLwxhoc3GmJLdwXZBHb3DZpAHTr&device-type=web&device-name=web&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20de%20Colombia),hora%20est%C3%A1ndar%20de%20Colombia&dvrTime=3600
+https://ott.streann.com/loadbalancer/services/v1/channels-secure/5d7ace822cdcdf7a7c51fe50/playlist.m3u8?access_token=34c6c55e-c4c4-4fc6-8659-249c827a3b14&device-id=Qv2CjmCE5Q1cDQ8jVqSaX6UxgcyHwEl1LWtktlppPUsRZgPTGJ&device-type=web&device-name=web&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20de%20Colombia),hora%20est%C3%A1ndar%20de%20Colombia&dvrTime=3600
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" tvg-country="ARGENTINA",Ciudad TV Resistencia
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" tvg-country="ESPAÑA",Clan
