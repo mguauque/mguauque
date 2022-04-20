@@ -439,6 +439,8 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ac4755fc9224__838x390.jpg" tvg-country="EL SALVADOR",Europa HD
 http://190.83.119.67:8000/play/a0rb/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png", Evavisión Pachanga
+http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/ewtn.svg" tvg-country="EL SALVADOR",EWTN
 http://190.83.119.67:8000/play/a0qw/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/EXATV2009.jpg/revision/latest?cb=20130608202302" tvg-country="EL SALVADOR",Exa TV
