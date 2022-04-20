@@ -75,6 +75,8 @@ http://inliveserver.com:1935/14510/14510/playlist.m3u8
 http://190.83.119.67:8000/play/a0q2/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" tvg-country="ESPAÑA",Apunt
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Estacion Cristal" tvg-logo="https://lh3.googleusercontent.com/-OVKm6WJqsOE/YH9lkO3dBoI/AAAAAAABB04/rL_BJgKt2Hw7UJjK0PN4Gl0lbNEW9ZK4wCK8BGAsYHg/s512/2021-04-20.jpg",Estacion Cristal
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DCAtokY.png" tvg-country="BOLIVIA",ATB
 http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-country="COLOMBIA",ATV
