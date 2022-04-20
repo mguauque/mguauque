@@ -21,8 +21,6 @@ http://www.coninfo.net:1935/tvcinco/live2/playlist.m3u8
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.5t1TEpwB4uwVDYB_jjoRrgAAAA%26pid%3DApi&f=1" tvg-country="ARGENTINA",9 HD
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0146
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.x-osyB3nF6fG2rb7BY0paQHaHa%26pid%3DApi&f=1" tvg-country="MEXICO",90`s Eurodance Mix
-https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
 #EXTINF:-1 tvg-logo="https://assets.historyplay.tv/aela/public/images/2021/11/26/generic-thumb.jpg" tvg-country="EL SALVADOR",A&E
 http://45.71.185.142:8500/play/a01i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tBdgllD.png" tvg-country="PARAGUAI",ABCTV
@@ -105,8 +103,6 @@ http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
 http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.2ycWxcd1Jp3wHdFpnMHLRAHaEK%26pid%3DApi&f=1" tvg-country="ARGENTINA",CANAL 26
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iQ5Umwj.jpg" tvg-country="CHILE",Canal 29
-https://59f1cbe63db89.streamlock.net:1443/canal/canal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal3_super_canal.png" tvg-country="GUATEMALA",Canal 3
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" tvg-country="ARGENTINA",Canal 3 Rosario
@@ -893,3 +889,5 @@ https://ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%
 https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/0f/96/23/0f9623555a894ac86b9b1e5c9ccc9921--farm-logo-black-sheep.jpg" tvg-country="PERU",Sheep MIX
 https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.x-osyB3nF6fG2rb7BY0paQHaHa%26pid%3DApi&f=1" tvg-country="MEXICO",90`s Eurodance Mix
+https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
