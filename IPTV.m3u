@@ -138,7 +138,7 @@ https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" tvg-country="MEXICO",Canal 6 
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://image.multimedios.cr/sites/default/files/styles/social_share/public/multimedios1.jpg" tvg-country="COSTA RICA",Canal 8
-http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+http://190.7.192.164:8007/play/s23
 #EXTINF:-1 tvg-logo="https://hosttec.online/wp-content/uploads/2020/03/img1920.jpg" tvg-country="COSTA RICA",Canal 88 Stereo
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UnWMRrT.png" tvg-country="CHILE",Canal 9 BioBio Television
