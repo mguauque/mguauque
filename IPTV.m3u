@@ -11,20 +11,6 @@ http://rtmp.one.by:1200
 http://rtmp.one.by:1300/
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png" tvg-country="BIELORUSIA",1Music Canal 3
 http://rtmp.one.by:2300/
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.oiKnkqb6K2EkNbN1eahDiAHaHa%26pid%3DApi&f=1" tvg-country="MEXICO",2009 MIX
-https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Ksk065b357r8CB6JEbYrQwAAAA%26pid%3DApi&f=1" tvg-country="MEXICO",2010 MIX
-https://ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.explicit.bing.net%2Fth%3Fid%3DOIP.or8PbjXi83YcgMsKexkcNQAAAA%26pid%3DApi&f=1" tvg-country="MEXICO",2011 MIX
-https://ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ%20Panduro%20%26%20DJ%20Cool%20-%20Video%20Yearmix%202011%20%28HD%20720%29.mp4
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Czg5PsWhiLNILaLUFndAbQHaEK%26pid%3DApi&f=1" tvg-country="MEXICO",2012 MIX
-https://ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.G3fwf_SWwHJr4SSsTTNKfAHaHS%26pid%3DApi&f=1" tvg-country="MEXICO",2013 MIX
-https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.YtAoaFGK7ln4TSokYFTHuAHaEK%26pid%3DApi&f=1" tvg-country="MEXICO",2014 MIX
-https://ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%20-%20Video%20Yearmix%202014%20%28HD%29.mp4
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.pePt3w6ZvajxS27aRuF1GQHaHa%26pid%3DApi&f=1" tvg-country="MEXICO",2015 MIX
-https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" tvg-country="ESPAÑA",24h
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ydVVIA.png" tvg-country="ESTADOS UNIDOS",3ABN HD
@@ -629,8 +615,6 @@ http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=902&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.QdwmE1msRiTyA76lCZy3twAAAA%26pid%3DApi&f=1" tvg-country="RUSIA",Shanson TV
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/0f/96/23/0f9623555a894ac86b9b1e5c9ccc9921--farm-logo-black-sheep.jpg" tvg-country="PERU",Sheep MIX
-https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
 #EXTINF:-1 tvg-logo="http://sitv.com.do/imgs/sitv.png" tvg-country="REP DOMINICANA",SiTV
 http://190.122.104.221/Player/sitv.m3u8
 #EXTINF:-1 tvg-logo="http://190.211.140.13/soltv/img/logomenu.png" tvg-country="COLOMBIA",SOL TV
@@ -893,3 +877,19 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604930bc28b24d0007e
 https://cloud.streamingconnect.tv:455/radiotvzafra/radiotvzafra.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-OlrTJEjmmAI/Wr1YlnuxLOI/AAAAAAAAdIU/vTw_1pzwsTUbHwz_4zPiZwnbaeHDwiYAwCLcBGAs/s200/Zol%2B106.png" tvg-country="REP DOMINICANA",Zol 106
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.oiKnkqb6K2EkNbN1eahDiAHaHa%26pid%3DApi&f=1" tvg-country="MEXICO",2009 MIX
+https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Ksk065b357r8CB6JEbYrQwAAAA%26pid%3DApi&f=1" tvg-country="MEXICO",2010 MIX
+https://ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.explicit.bing.net%2Fth%3Fid%3DOIP.or8PbjXi83YcgMsKexkcNQAAAA%26pid%3DApi&f=1" tvg-country="MEXICO",2011 MIX
+https://ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ%20Panduro%20%26%20DJ%20Cool%20-%20Video%20Yearmix%202011%20%28HD%20720%29.mp4
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Czg5PsWhiLNILaLUFndAbQHaEK%26pid%3DApi&f=1" tvg-country="MEXICO",2012 MIX
+https://ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.G3fwf_SWwHJr4SSsTTNKfAHaHS%26pid%3DApi&f=1" tvg-country="MEXICO",2013 MIX
+https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.YtAoaFGK7ln4TSokYFTHuAHaEK%26pid%3DApi&f=1" tvg-country="MEXICO",2014 MIX
+https://ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%20-%20Video%20Yearmix%202014%20%28HD%29.mp4
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.pePt3w6ZvajxS27aRuF1GQHaHa%26pid%3DApi&f=1" tvg-country="MEXICO",2015 MIX
+https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/0f/96/23/0f9623555a894ac86b9b1e5c9ccc9921--farm-logo-black-sheep.jpg" tvg-country="PERU",Sheep MIX
+https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
