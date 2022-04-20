@@ -503,6 +503,8 @@ https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-T6GUy9Xq7dk/XHqhBG7oE1I/AAAAAAAAHcI/JthcJF6_nZ8VDmiy0QGGXaVKrsgDsBvogCLcBGAs/s1600/%25C3%2593rbita%2BTV%2BCanal%2B25%2Bhd.png" tvg-country="EL SALVADOR",Orbita TV Canal 25
 https://5dcabf026b188.streamlock.net/orbitatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CFbHdqZ.jpg" tvg-country="CHILE",Pauta
 https://unlimited1-us.dps.live/pautatv/pautatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B89KuHO.png" tvg-country="PERU",Pax TV
