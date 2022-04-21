@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO Plus
+http://45.225.95.170:8000/play/a0pd/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ERdsJLzILbw/Xzgg1nFfrII/AAAAAAAA4Xs/7-F-ChjTvCII5R33mD4ef3Tb75BkfZUOwCK8BGAsYHg/s0/2020-08-15.png" tvg-country="BOLIVIA",12 Sincelejo
 http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ftvonlinegratis.com%2Fwp-content%2Fuploads%2F2014%2F06%2FCanal13-Py-Logo.jpg&f=1&nofb=1" tvg-country="PARAGUAI",13 Paraguay
