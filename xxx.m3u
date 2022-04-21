@@ -2,6 +2,8 @@
 http://45.225.95.170:8000/play/a0l4/index.m3u8
 #EXTINF:-1,playBoy
 http://190.83.119.67:8000/play/a0pw/index.m3u8
+#EXTINF:-1 group-title="Lista 24", Playboy
+http://45.225.95.170:8000/play/a0mu/index.m3u8
 #EXTINF:0,XXX : Nubiles Porn Channel WJJ HD
 #EXTVLCOPT:http-user-agent=20100101
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/410
