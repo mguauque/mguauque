@@ -1,4 +1,5 @@
-﻿#EXTM3U#EXTINF:-1 tvg-logo="https://scontent.fbog4-2.fna.fbcdn.net/v/t1.18169-9/11541921_1039239442760364_3400556739948893271_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=-akpFbPRkqsAX9AIVMX&_nc_ht=scontent.fbog4-2.fna&oh=00_AT_W4gcXZzPX-PBEWk--oJ16IbOMl91YCmWdmyqs2-o6Xg&oe=62934673" group-title="Entretenimiento",Canal 36
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://scontent.fbog4-2.fna.fbcdn.net/v/t1.18169-9/11541921_1039239442760364_3400556739948893271_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=-akpFbPRkqsAX9AIVMX&_nc_ht=scontent.fbog4-2.fna&oh=00_AT_W4gcXZzPX-PBEWk--oJ16IbOMl91YCmWdmyqs2-o6Xg&oe=62934673" group-title="Entretenimiento",Canal 36
 http://rtmp.info:8081/anexiontv/envivo/index.m3u8
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Musica",1Music Canal 1
 http://rtmp.one.by:1200
