@@ -143,6 +143,8 @@ http://st2.worldkast.com/8004/8004/playlist.m3u8
 http://streamingcws20.com:1935/tves/tves.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PE2Gi3N.png" group-title="Entretenimiento",Canal 10 Rio Negro
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-udRZY3SuHM8/VCGFNuPPYMI/AAAAAAAAoGA/ABuT00hderM/s1600/canal10-mdp.png" group-title="General",Canal 10 MX
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mineduperu/picture?width=320&height=320" group-title="Infantiles",Canal 11
 http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/repretel-11-1573.png" group-title="General",Canal 11
