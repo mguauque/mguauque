@@ -2977,13 +2977,20 @@ https://dl.dropboxusercontent.com/s/qqg2rrxcxc2spff/SalynPM-SPM2p5w.mp4?dl=0
 https://dl.dropboxusercontent.com/s/0d6bi6mqvphbnq9/SalynPM-SPM7h4p.mp4?dl=0
 #EXTINF:-1 tvg-logo="" group-title="Peliculas",Hotel Transilvania: Transformanía (2022)
 https://download.spaces.hightail.com/api/v1/stream/sp-8a8c069c-9382-4c24-b2a0-4a14e3e65834/fi-8d194ce7-6606-44aa-95b4-24d3e80f42a4/fv-48beaf0c-f48b-4e6a-9ffa-fc287da796ec/Hotel%20Transilvania%20Transforman%C3%ADa%20(2022)
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",Apolo 10 
+http://51.222.158.240:999/PELISSD/apollo-a-space-age-childhood-2022-Latino.mkv
+#EXTINF:-1tvg-logo="" group-title="Peliculas",El rescate de Ruby (2022)
+http://149.56.14.53:999/PELISSD/rescued-by-ruby-2022-latino.mkv
 
 
 
 
 
 
-
+#EXTINF:-1 group-title="Documentales" tvg-logo="",Una historia natural (2022)
+http://51.79.73.201:999/PELISSD/fantastic-beasts-a-natural-history-2022-Latino.mkv
+#EXTINF:-1 group-title="Documentales" tvg-logo="",El estafador de Tinder (2021)
+http://51.222.9.200:999/PELISSD/the-tinder-swindler-2022-Latino.mkv
 #EXTINF:-1 group-title="Documentales" tvg-logo="https://www.diariocomo.es/wp-content/uploads/2021/11/Captura-de-pantalla-2021-11-04-a-las-12.54.16.jpg",¿Dónde está Marta? S01 E01  
 http://ytv.plus:25461/series/Maria/1234/16482.mkv
 #EXTINF:-1 group-title="Documentales" tvg-logo="https://www.diariocomo.es/wp-content/uploads/2021/11/Captura-de-pantalla-2021-11-04-a-las-12.54.16.jpg",¿Dónde está Marta? S01 E02  
