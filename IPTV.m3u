@@ -1395,6 +1395,132 @@ https://cloud.streamingconnect.tv:455/radiotvzafra/radiotvzafra.m3u8
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.Zona_Latina_2021.png.700b48a73a39f2378a9a6688f2b291ba.png" group-title="Musica",Zona Latina
 http://45.225.95.170:8000/play/a0iz/index.m3u8
+#EXTINF:0 tvg-logo="https://cdn3.uvnimg.com/55/a5/1911345748f7899a9db21579b870/40y20_1920x1080.jpg" group-title="Cine & Series",40 y 20
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/58.m3u8
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w1280/djVrT6A2gG5FayVHKPW3KBceLAP.jpg" group-title="Infantiles",DRAGON BALL
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/62.m3u8
+#EXTINF:0  tvg-logo="https://pics.filmaffinity.com/nosotros_los_guapos_tv_series-663235727-large.jpg" group-title="Cine & Series",Nosotros Los Guapos
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/59.m3u8
+#EXTINF:0 tvg-logo="https://www.mdzol.com/u/fotografias/m/2021/3/15/f768x1-1031220_1031347_97.jpg" group-title="Infantiles",Peppa Pig
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/60.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/bd/29/cc/bd29cccfe6f31ff008079c20872944d4.jpg" group-title="Cine & Series",Cinema DC Universe
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/53.m3u8
+#EXTINF:0 tvg-logo="https://www.1min30.com/logo/wp-content/uploads/2017/08/Disney-Logo.jpg" group-title="Cine & Series",Cinema Disney Live Action
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/49.m3u8
+#EXTINF:0 tvg-logo="https://wallpapercave.com/wp/wp9510640.jpg" group-title="Cine & Series",Cinema Lego Movies
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/48.m3u8
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/marvel-logo-0.png" group-title="Cine & Series",Cinema Marvel
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/54.m3u8
+#EXTINF:0 tvg-logo="https://multarte.com.br/wp-content/uploads/2019/02/mickey-mouse-4-logo-png-transparent.png" group-title="Cine & Series",La casa de Mickey Mouse
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/40.m3u8
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBy4UjzHqiryZgQjU98lwtiVii_5HTdvH76ig=s900-mo-c-c0xffffffff-rj-k-no" group-title="Cine & Series",Rosa de Guadalupe
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/63.m3u8
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-8AM51LkQ788/U4V9GupQlGI/AAAAAAAACx0/P8mdyVhVVds/s264/mensaje.jpg" group-title="Cine & Series",Vecinos
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/57.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_(canal).svg/1200px-Logo_a%2B_(canal).svg.png" group-title="General",A+ (MX)
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/92.m3u8
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-0.png" group-title="Cine & Series",AMC 
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/101.m3u8
+#EXTINF:0 tvg-logo="https://www.ipuntotv.com/IMAGES/AZTV-de-Paga-Canales.png" group-title="General",AzClic
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/394.m3u8
+#EXTINF:0 tvg-logo="https://futboltv.mx/img/azmundo.png" group-title="General",AzMundo
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/395.m3u8
+#EXTINF:0 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/az-corazon.jpg" group-title="General",AZTECA CORAZON
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/38.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png" group-title="Infantiles",Bitme
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/97.m3u8
+#EXTINF:0 tvg-logo="https://odisea.es/wp-content/uploads/2016/01/ODI-100ODISEA.jpg" group-title="General",CANAL ODISEA HD
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/98.m3u8
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-gtcrRLCgenE/VWM0gdrvqGI/AAAAAAAADOc/gNSRV8RigIA/s1600/CARACOL_TV_LOGO_%25286%2529.jpg" group-title="General",CARACOL
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/68.m3u8
+#EXTINF:0 tvg-logo="https://criadoresid.com/wp-content/uploads/2020/11/Canal-Cartoon-Network-Brasil-768x768.jpg" group-title="Infantiles",Cartoon Network
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/367.m3u8
+#EXTINF:0 tvg-logo="https://d1aid1ai1ve9l.cloudfront.net/capasm/11724.jpg" group-title="Infantiles",Catdog
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/403.m3u8
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/f/f2/ElChavoAnimado.jpg/revision/latest?cb=20200723214208&path-prefix=es" group-title="Infantiles",Chavo Animado
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/418.m3u8
+#EXTINF:0 tvg-logo="https://ih1.redbubble.net/image.465621480.1868/pp,504x498-pad,600x600,f8f8f8.u2.jpg" group-title="Entretenimiento",Chespirito
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/415.m3u8
+#EXTINF:0 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/cinemax-logo.png" group-title="Cine & Series",Cinemax HD
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/35.m3u8
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20200721163946&path-prefix=es" group-title="Infantiles",Coraje Perro Cobarde 
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/404.m3u8
+#EXTINF:0 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="Cine & Series",DePelicula Plus
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/392.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/37/17/55/371755a5106afc31e6e49b77d9881363.jpg" group-title="Entretenimiento",Dinosaurios 
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/411.m3u8
+#EXTINF:0 tvg-logo="https://kelencontent.com/wp-content/uploads/2010/02/site_logo-11.gif" group-title="Canal Documentales",DISCOVERY CIVILIZATION
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/531.m3u8
+#EXTINF:0 tvg-logo="https://www.dayofdubai.com/sites/default/files/styles/large/public/news/discovery-science-celebrates-world-science-day-unveils-new-air-visual-identity-and-blasts-its-logo.jpg?itok=8_2A1G9y" group-title="Canal Documentales",Discovery Sciense
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/421.m3u8
+#EXTINF:0 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/aba1901710824.5600fb4d34704.jpg" group-title="Canal Documentales",Discovery World
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/391.m3u8
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/a/AATXAJylNIT_0DyH3NOhI3CHjjtSgiMOaU6ZXOiOmQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="Entretenimiento",Distrito Comedia
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/397.m3u8
+#EXTINF:0 tvg-logo="https://www.seeklogo.net/wp-content/uploads/2013/03/house-mddr-house-vector-logo.png" group-title="Cine & Series",Dr House
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/408.m3u8
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/12/dragon-ball-super-logo.png" group-title="Infantiles",Dragon Ball Super
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/413.m3u8
+#EXTINF:0 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/8/88/Elgourmet_logo_1.png/revision/latest?cb=20151123221216" group-title="Entretenimiento",El Gourmet
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/398.m3u8
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/_-jE7HDLucU8/TUNn-YLTxDI/AAAAAAAAACk/Qgz5mwqJAs4/s1600/logoExtranormal.png" group-title="Cine & Series",Extranormal
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/406.m3u8
+#EXTINF:0 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--SJ8ot3ei--/t_Preview/b_rgb:191919,c_limit,f_auto,h_630,q_90,w_630/v1475865828/production/designs/720040_1.jpg" group-title="Infantiles",Futurama 
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/412.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1280px-Galavision_Logo_2013.svg.png" group-title="General",Galavision USA
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/524.m3u8
+#EXTINF:0 tvg-logo="https://cdn.elgrupoinformatico.com/img/w720/Noticias/2016/10/gol-tv-logo-720x388.png" group-title="Deportes",GOLTV
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/27.m3u8
+#EXTINF:0 tvg-logo="https://sm.ign.com/t/ign_latam/movie/h/hey-arnold/hey-arnold-the-movie-theater_qhs5.1200.jpg" group-title="Infantiles",Hey Arnold 
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/407.m3u8
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w1280/ud76LkzuqlbmwGVeXCH2TcDZwYZ.jpg" group-title="Cine & Series",La Familia Peluche 
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/405.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-t5XI5XWD12w/UuXgSXSI1jI/AAAAAAAAA_Y/XX95_xX6YFM/s1600/Le+Temes+a+la+Oscuridad+Latino+Temporada+1.jpg" group-title="Cine & Series",Le Temes a La Oscuridad
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/402.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Canal_plus_liga_campeones.png/150px-Canal_plus_liga_campeones.png" group-title="Deportes",LIGA DE CAMPEONES
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/528.m3u8
+#EXTINF:0 tvg-logo="https://i.etsystatic.com/27152142/r/il/0ef84e/3029949373/il_1588xN.3029949373_r9u3.jpg" group-title="Infantiles",Los Simpsons 
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/414.m3u8
+#EXTINF:0 tvg-logo="https://ih1.redbubble.net/image.202201570.4314/raf,750x1000,075,t,fafafa:ca443f4786.u2.jpg" group-title="Cine & Series",Malcom 
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/417.m3u8
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/a/AATXAJwQic1byhgh06qKVbQ-X4ejcqGvEG00Wnln8w=s900-c-k-c0xffffffff-no-rj-mo" group-title="General",MEGATV
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/25.m3u8
+#EXTINF:0 tvg-logo="http://variacionxxi.com/wp-content/uploads/2016/04/Movistar-F1.png" group-title="Deportes",MOVISTAR F1 - DAZN
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/72.m3u8
+#EXTINF:0 tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2016/07/la-liga-logo.jpg" group-title="Deportes",La Liga
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/387.m3u8
+#EXTINF:0 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/02/pokemon-logo.png" group-title="Infantiles",Pokemon 
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/410.m3u8
+#EXTINF:0 tvg-logo="https://ranger-retrocenter.com/wp-content/uploads/2018/11/icon-pris.png" group-title="Cine & Series",Power Rangers Space 
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/400.m3u8
+#EXTINF:0 tvg-logo="https://ih1.redbubble.net/image.940149187.6745/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="Infantiles",Ranma 1/2 
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/409.m3u8
+#EXTINF:0 tvg-logo="https://logosave.com/images/large/4/RCN-TELEVISION-logo.gif" group-title="General",RCN
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/69.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-OCSN-oLAxC4/WtyfrVKtoOI/AAAAAAAAAsk/eYCE2WvJExwLNkOV_GFDEVwZLl-CHd87wCLcBGAs/s1600/Super%2BCampeones%2BOliver%2By%2BBenji.1.jpg" group-title="Infantiles",SuperCampeones 
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/419.m3u8
+#EXTINF:0 tvg-logo="https://s1.gifyu.com/images/telemundo-logo-1.png" group-title="General",TELEMUNDO 
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/23.m3u8
+#EXTINF:0 tvg-logo="https://s1.gifyu.com/images/telemundo-logo-1.png" group-title="General",Telemundo UTAH
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/100.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/0f/dc/cd/0fdccd333acef5533cd0108476898f0c.jpg" group-title="Infantiles",Thundercats 
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/401.m3u8
+#EXTINF:0 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/1/15/Univision_tlnovelas_2013.png/revision/latest?cb=20121018170144" group-title="Entretenimiento",TLENOVELAS UNIVISION
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/37.m3u8
+#EXTINF:0 tvg-logo="https://images.produ.com/noticias/0907/big-Logotlnovelas.jpg" group-title="Entretenimiento",TLNovelas
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/393.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-BKBpFvFvhKE/WP0ljIvbZlI/AAAAAAAAYOs/4fk1JDzQ3FoAxEg1C_TElwmnfeCDP_27QCLcB/s1600/nueva-imagen-del-canal-toros-de-movistar.jpg" group-title="Deportes",Toros
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/388.m3u8
+#EXTINF:0 tvg-logo="https://i.static.cdn.trutv.com/pictures/481000cc/trupal-images/2017-09/trutv-logo-1920x1080_75.jpg" group-title="Entretenimiento",TruTV
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/396.m3u8
+#EXTINF:0 tvg-logo="https://wallpapercave.com/wp/wp4439701.jpg" group-title="Entretenimiento",UNIVISION 
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/26.m3u8
+#EXTINF:0 tvg-logo="https://img2.freepng.fr/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="Canal Documentales",Discovery 
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/71.m3u8
+#EXTINF:0 tvg-logo="https://d1cd2t8ij9653t.cloudfront.net/eyJidWNrZXQiOiJ3YXBhdHYtaW1hZ2VzIiwia2V5IjoiYXJ0aWNsZXMvMjAxOC8xMC8yMDE4MTAwODEzMDc0NjAud2FwYS1sb2dvanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjgwMCwiZml0IjoiY292ZXIifX19" group-title="Entretenimiento",WAPA 
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/21.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="Deportes",Win sports
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/384.m3u8
 
 
 
