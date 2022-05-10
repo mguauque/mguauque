@@ -1521,6 +1521,9 @@ http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/71.m3u8
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/21.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="Deportes",Win sports
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/384.m3u8
+#EXTINF:-1 tvg-logo="https://www.finest.tv/themes/default/assets/images/logo2017.png" group-title="Musica",Finest TV
+http://media.finest.tv/hls/live.m3u8
+
 
 
 
