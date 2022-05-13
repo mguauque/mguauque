@@ -1875,6 +1875,8 @@ https://24933.live.streamtheworld.com/LA_FM_BOGAAC.aac
 https://25003.live.streamtheworld.com/LA_KALLE.mp3?dist=onlineradiobox
 #EXTINF:-1 tvg-logo="https://k60.kn3.net/taringa/8/1/C/7/E/8/AlvaroA50/9FA.jpg" group-title="Emisoras",La Mega Bogota Colombia
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_MEGA_BOG.mp3
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/la-kalle-3023-v1.jpg" group-title="Emisoras",La Kalle Bogota Colombia
+https://14983.live.streamtheworld.com/LA_KALLE_ADP.aac?dist=%2520blu_web
 #EXTINF:-1 tvg-logo="https://k60.kn3.net/taringa/8/1/C/7/E/8/AlvaroA50/9FA.jpg" group-title="Emisoras",La Mega el cartel Colombia
 https://21933.live.streamtheworld.com/EL_CARTELAAC.aac
 #EXTINF:-1 tvg-logo="https://k60.kn3.net/taringa/8/1/C/7/E/8/AlvaroA50/9FA.jpg" group-title="Emisoras",La Mega Electro Colombia
