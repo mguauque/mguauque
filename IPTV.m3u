@@ -49,7 +49,7 @@ https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jlRMBbu.jpg" group-title="Musica",AlegriaTV
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0qwmBEm.png" group-title="Infantiles",Aliento Vision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0qwmBEm.png" group-title="Religioso",Aliento Vision
 http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5553563ae4b08689b8eeaf65/1431634483080-SX2YE7GQK016VWWECQQX/logo+AV.png?format=1000w&content-type=image%2Fpng" group-title="Religioso",Aliento Vision
 https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/playlist.m3u8
@@ -183,7 +183,7 @@ https://api.new.livestream.com/accounts/3789491/events/8003011/live.m3u8
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/03/Channel-3-Thailand-1.png" group-title="Cine & Series",Canal 3
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://medias.unifrance.org/medias/4/67/148228/format_hd/tv3-tv-de-catalunya.png" group-title="Infantiles",Canal 3 Cataluña
+#EXTINF:-1 tvg-logo="https://medias.unifrance.org/medias/4/67/148228/format_hd/tv3-tv-de-catalunya.png" group-title="General",Canal 3 Cataluña
 https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/3425.gif" group-title="Entretenimiento",Canal 3 Pinamar
 http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
