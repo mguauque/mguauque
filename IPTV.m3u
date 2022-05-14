@@ -53,6 +53,8 @@ https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5553563ae4b08689b8eeaf65/1431634483080-SX2YE7GQK016VWWECQQX/logo+AV.png?format=1000w&content-type=image%2Fpng" group-title="Religioso",Aliento Vision
 https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.alcarria.tv/web2/wp-content/uploads/2018/04/logo_alcarria_tv_letras_blancas.png" group-title="General",ALCARRIA TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png" group-title="Deportes",All Elite Wrestling
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG-1620235493562.png" group-title="Cine & Series",Amantes del romance
@@ -1304,7 +1306,7 @@ http://190.7.192.164:8001/play/s49
 #EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2019/03/53311917_1258469654318918_8926059123426983936_n.png" group-title="General",TVR
 https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a2YX1oj.jpg" group-title="Entretenimiento",TVS
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdiF5k6.png" group-title="Canal Documentales",TVU
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvx.com.sv/wp-content/uploads/2020/07/TVX-Favicon.png" group-title="Entretenimiento",TVX
