@@ -605,6 +605,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb00009
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="Musica",HTV
 http://45.225.95.170:8000/play/a0o6/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRztHjVC_2625tQLKtQ1dUT0LqsoOyoKckIR7zp08PIzwZb2m7S" group-title="Entretenimiento",HMTV
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="Entretenimiento",Humor
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2fcontent%2f20160517214501366745_Hungama-logo.gif&h=570&w=855&q=100&v=20170226&c=1" group-title="Musica",Hungama Digital
@@ -715,7 +717,7 @@ https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
 http://45.225.95.170:8000/play/a0iw/index.m3u8
 #EXTINF:-1 tvg-logo="hthttps://mcn6.org/wp-content/uploads/2019/12/logo-t.png" group-title="Musica",MCN 6
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/MegatvYacuiba/picture?width=300&height=300" group-title="Musica",MegaTV
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/MegatvYacuiba/picture?width=300&height=300" group-title="Cine & Series",MegaTV
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/megavision.png" group-title="Cine & Series",Megavision Canal 43
 http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
@@ -1563,6 +1565,8 @@ https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Pan
 https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
 #EXTINF:-1 tvg-logo="http://panduro.mono.net/upl/10228/DVDsheepMixSummerParty0.jpg" group-title="Musica", Videomix:SheepMix
 https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
+#EXTINF:-1 tvg-logo="http://televisiondeleste.com/wp-content/uploads/2020/02/LOGO-DE-ESTE-TV-300x99.png"  group-title="General",TELEVISION DEL ESTE HD
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8
 
 
 
