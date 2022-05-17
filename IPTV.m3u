@@ -287,7 +287,7 @@ http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
 http://45.225.95.170:8000/play/a0ix/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="Cine & Series",Ciencia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2d/18/54/2d185451c3cc188c39add960b94c6844.png" group-title="Noticias",Cinco TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2d/18/54/2d185451c3cc188c39add960b94c6844.png" group-title="General",Cinco TV
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" group-title="Cine & Series",Cine 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=913&terminate=false&userId=
@@ -786,7 +786,7 @@ https://videostreaming.cloudserverlatam.com/8078/8078/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6051201a0aa8a70007c24a2a/colorLogoPNG-1618602700695.png" group-title="Canal Documentales",Mundo geek
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=928&deviceId=6051201a0aa8a70007c24a2a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CREs19T.png" group-title="General",Mundo Mas
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492a9bbca75b0007b1bfd5/colorLogoPNG.png" group-title="Cine & Series",Mundo paranormal
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492a9bbca75b0007b1bfd5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=922&deviceId=60492a9bbca75b0007b1bfd5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60511efd71ec430007f50d97/colorLogoPNG.png" group-title="Entretenimiento",Mundo viajero
@@ -888,7 +888,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?Playlis
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/937.png" group-title="Musica",Pamir TV
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TftsKMvBSm8/U4j6YwiDHqI/AAAAAAAACfI/Zsz0ZzNmIRM/s1600/PANAMERICANA-TELEVISION-TV-PERUANA-HD-fullcaleta-logo-png-gif.jpg" group-title="General",Panamericana
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
+https://cdnh71.iblups.com/hls/ptv2.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://24.hu/app/uploads/2016/01/paramount-e1460638507150.jpg" group-title="Cine & Series",Paramount Channel
 http://45.225.95.170:8000/play/a0lx/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="Entretenimiento",Paramount+ Presenta
@@ -1000,7 +1000,7 @@ https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title="Infantiles",Retro Cartoons
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.gW9nyQm0O8z_SNFI-6QL0AHaEK%26pid%3DApi&f=1" group-title="Musica",Retro Music TV
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Musica",Retro Plus 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Cine & Series",Retro Plus 3
@@ -1008,7 +1008,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playli
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="Cine & Series",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Musica",Retro Plus TV
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="Musica",Retro Plus TV 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oVGXBmY.png" group-title="Musica",Retro TV countri
@@ -1567,6 +1567,20 @@ https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20P
 https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
 #EXTINF:-1 tvg-logo="http://televisiondeleste.com/wp-content/uploads/2020/02/LOGO-DE-ESTE-TV-300x99.png"  group-title="General",TELEVISION DEL ESTE HD
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6a/Nicavision1993.png/revision/latest?cb=20180426154048"  group-title="General", CANAL 12
+https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w1538444498.m3u8
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/11/pop-cable-channel-network.jpg?w=1000&h=562&crop=1" group-title="Musica",POP TV
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1489788315_b978000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0VSx-O8tmYO9z-tEfuspFxVwlOoLvPwSDwbHyLgAnNWZdHlLo" group-title="Musica",kronehitV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b628000.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-412AERiYMxI/YKQhU6rdR0I/AAAAAAABCYU/dIiDILugmbA8oKWQjiJuQCUlFD44BctuwCK8BGAsYHg/s512/2021-05-18.jpg" group-title="Entretenimiento", Oasis TV
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/aa99b1f0883fe3d009f973f0a0e2848f.png" group-title="Musica", Buenisima Radio TV
+http://streamyes.alsolnet.com/buturama/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/10c25d2283903f2f06871459f16b8391.png" group-title="General", Veo TV
+https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
+
+
 
 
 
