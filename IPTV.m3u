@@ -139,7 +139,7 @@ https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ATN_Televisi%C3%B3n_logo.svg/100px-ATN_Televisi%C3%B3n_logo.svg.png" group-title="General",ATN
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
-#EXTINF:-1 group-title="Lista 04", ATRES
+#EXTINF:-1 group-title="General", ATRES
 http://bgapp.live/play/zufree-513.php?c=50.m3u8&blck
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/e9/01/b8/e901b813-f755-d643-024b-4700b0e3a8bd/source/60x60bb.jpg" group-title="General",ATV
 https://movil.ejeserver.com/live/verteve.m3u8
@@ -155,7 +155,7 @@ https://5eff35271151c.streamlock.net:1936/8144/8144/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/04/AXN-logo-2018.jpg?ssl=1" group-title="Cine & Series",AXN
 http://45.71.185.142:8500/play/a02y
-#EXTINF:-1 group-title="Lista 04", AXN
+#EXTINF:-1 group-title="Cine & Series", AXN
 http://bgapp.live/play/zufree-513.php?c=8.m3u8&blck
 #EXTINF:-1 group-title="Cine & Series", AXN
 http://190.83.119.67:8000/play/a0pp/index.m3u8
@@ -169,11 +169,11 @@ http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/394.m3u8
 #EXTINF:0 tvg-logo="https://futboltv.mx/img/azmundo.png" group-title="General",AzMundo
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/395.m3u8
-#EXTINF:-1 group-title="Lista 04",AZTECA 7
+#EXTINF:-1 group-title="General",AZTECA 7
 http://bgapp.live/play/zufree-513.php?c=51.m3u8&blck
 #EXTINF:0 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/az-corazon.jpg" group-title="General",AZTECA CORAZON
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/38.m3u8
-#EXTINF:-1 group-title="Lista 04", AZTECA UNO
+#EXTINF:-1 group-title="General", AZTECA UNO
 http://bgapp.live/play/zufree-513.php?c=82.m3u8&blck
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="Infantiles",Babar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -669,7 +669,7 @@ http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/413.m3u8
 http://190.83.119.67:8000/play/a0s7/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento", E!
 http://190.83.119.67:8000/play/a0q5/index.m3u8
-#EXTINF:-1 group-title="Lista 06", E!
+#EXTINF:-1 group-title="Entretenimiento", E!
 http://190.83.119.67:8000/play/a0t7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ANW1pIH.png" group-title="Religioso",Ebenezer TV
 http://p1.worldkast.com/ebenezertv2/ngrp:ebenezertv2_all/playlist.m3u8
@@ -907,7 +907,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679
 http://190.83.119.67:8000/play/a0t8/index.m3u8
 #EXTINF:-1 group-title="Canal Documentales", History
 http://190.83.119.67:8000/play/a0pk/index.m3u8
-#EXTINF:-1 group-title="-------", History 2
+#EXTINF:-1 group-title="Canal Documentales", History 2
 http://190.83.119.67:8000/play/a0r7/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo-2008.png" group-title="Canal Documentales",History Channel
 http://45.71.185.142:8500/play/a004
