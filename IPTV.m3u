@@ -93,7 +93,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="Infantiles",Animakids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aabee6f4a2c00076a322c&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=905&terminate=false&userId=
-#EXTINF:-1 group-title="----------", ANIMAL PLANET
+#EXTINF:-1 group-title="Canal Documentales", ANIMAL PLANET
 http://bgapp.live/play/zufree-513.php?c=19.m3u8&blck
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="Canal Documentales",Animales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -127,7 +127,7 @@ https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ATN_Televisi%C3%B3n_logo.svg/100px-ATN_Televisi%C3%B3n_logo.svg.png" group-title="General",ATN
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
-#EXTINF:-1 group-title="Lista 04", ATRES
+#EXTINF:-1 group-title="General", ATRES
 http://bgapp.live/play/zufree-513.php?c=50.m3u8&blck
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/e9/01/b8/e901b813-f755-d643-024b-4700b0e3a8bd/source/60x60bb.jpg" group-title="General",ATV
 https://movil.ejeserver.com/live/verteve.m3u8
@@ -143,7 +143,7 @@ https://5eff35271151c.streamlock.net:1936/8144/8144/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/04/AXN-logo-2018.jpg?ssl=1" group-title="Cine & Series",AXN
 http://45.71.185.142:8500/play/a02y
-#EXTINF:-1 group-title="Lista 04", AXN
+#EXTINF:-1 group-title="Cine & Series", AXN
 http://bgapp.live/play/zufree-513.php?c=8.m3u8&blck
 #EXTINF:-1  group-title="Ingles", AXS TV
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/328.m3u8
@@ -155,11 +155,11 @@ http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/394.m3u8
 #EXTINF:0 tvg-logo="https://futboltv.mx/img/azmundo.png" group-title="General",AzMundo
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/395.m3u8
-#EXTINF:-1 group-title="Lista 04",AZTECA 7
+#EXTINF:-1 group-title="General",AZTECA 7
 http://bgapp.live/play/zufree-513.php?c=51.m3u8&blck
 #EXTINF:0 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/az-corazon.jpg" group-title="General",AZTECA CORAZON
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/38.m3u8
-#EXTINF:-1 group-title="Lista 04", AZTECA UNO
+#EXTINF:-1 group-title="General", AZTECA UNO
 http://bgapp.live/play/zufree-513.php?c=82.m3u8&blck
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="Infantiles",Babar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -167,7 +167,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67e20c93312100076f3f
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="Infantiles",Baby Shark TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Infantil", Baby TV
+#EXTINF:-1 group-title="Infantiles", Baby TV
 http://bgapp.live/play/zufree-513.php?c=1035.m3u8&blck
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Religioso",Bailen TV
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
@@ -197,7 +197,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u
 https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6099600015e88c0007ecda25/colorLogoPNG.png" group-title="Entretenimiento",Boom
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6099600015e88c0007ecda25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Infantil" , BOORMERANG MX
+#EXTINF:-1 group-title="Infantiles" , BOORMERANG MX
 http://bgapp.live/play/zufree-513.php?c=37.m3u8&blck
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/357-3574417_00-main-website-channel-logos-04-btv-logo.png" group-title="General",BTV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
@@ -335,7 +335,7 @@ https://unlimited1-cl-isp.dps.live/carolinatv2/carolinatv2.smil/playlist.m3u8?Pl
 http://45.71.185.142:8500/play/a00f
 #EXTINF:0 tvg-logo="https://criadoresid.com/wp-content/uploads/2020/11/Canal-Cartoon-Network-Brasil-768x768.jpg" group-title="Infantiles",Cartoon Network
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/367.m3u8
-#EXTINF:-1 group-title="Infantil", Cartoon Network
+#EXTINF:-1 group-title="Infantiles", Cartoon Network
 http://bgapp.live/play/zufree-513.php?c=1037.m3u8&blck
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.twwXYNBgJ3Jvw0RhgR_W5QAAAA%26pid%3DApi&f=1" group-title="Entretenimiento",Catatumbo
 http://vcp1.myplaytv.com:1935/catatumbotv/catatumbotv/playlist.m3u8
