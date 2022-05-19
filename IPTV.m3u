@@ -183,7 +183,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23
 http://190.83.119.67:8000/play/a0r3/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="Infantiles",Baby Shark TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Infantil", Baby TV
+#EXTINF:-1 group-title="Infantiles", Baby TV
 http://bgapp.live/play/zufree-513.php?c=1035.m3u8&blck
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Religioso",Bailen TV
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
@@ -213,7 +213,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u
 https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6099600015e88c0007ecda25/colorLogoPNG.png" group-title="Entretenimiento",Boom
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6099600015e88c0007ecda25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Infantil" , BOORMERANG MX
+#EXTINF:-1 group-title="Infantiles" , BOORMERANG MX
 http://bgapp.live/play/zufree-513.php?c=37.m3u8&blck
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/357-3574417_00-main-website-channel-logos-04-btv-logo.png" group-title="General",BTV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
@@ -615,7 +615,7 @@ http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/382.m3u8
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/383.m3u8
 #EXTINF:0 tvg-logo="https://img2.freepng.fr/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="Canal Documentales",Discovery 
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/71.m3u8
-#EXTINF:-1 group-title="----------", Discovery
+#EXTINF:-1 group-title="Canal Documentales", Discovery
 http://190.83.119.67:8000/play/a0tb/index.m3u8
 #EXTINF:-1 group-title="Canal Documentales", Discovery
 http://190.83.119.67:8000/play/a0sa/index.m3u8
@@ -903,7 +903,7 @@ https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="Cine & Series",Historias de Ultratumba
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="---------", History
+#EXTINF:-1 group-title="Canal Documentales", History
 http://190.83.119.67:8000/play/a0t8/index.m3u8
 #EXTINF:-1 group-title="Canal Documentales", History
 http://190.83.119.67:8000/play/a0pk/index.m3u8
