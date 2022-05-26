@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="Canales Infantiles",canal 6
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/canal6nicaraguaoficial
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="Canales Infantiles",canal 6
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/11488
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="Canales Infantiles",Musica
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/13148
+#EXTINF:-1,URU-Canal 10 HD 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/59826
 #EXTINF:-1 tvg-id="" tvg-name="XTRM HD ES" tvg-logo="https://i.postimg.cc/5N6b2TgK/Xtrm-2021.png" group-title="Spain",XTRM HD ES
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/13527
 #EXTINF:-1 tvg-id="mtv90s.ro" tvg-name="MTV 90s VIP UK" tvg-logo="https://i.postimg.cc/8CCgm7Kg/Mtv-90s-logo.png" group-title="United Kingdom",MTV 90s VIP UK
