@@ -1,12 +1,1789 @@
 #EXTM3U
+#EXTINF:-1,CHI-13C 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/2751
+#EXTINF:-1,CHI-13E 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153668
+#EXTINF:-1,CHI-13P 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153670
+#EXTINF:-1,CHI-13T 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153669
+#EXTINF:-1,MEX-15TV Sabinas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153552
+#EXTINF:-1,ESP - 24 Horas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117676
+#EXTINF:-1,CHI-24 Horas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/31526
+#EXTINF:-1,CHI-24 Horas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/31527
+#EXTINF:-1,CHI-24 Horas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3206
+#EXTINF:-1,24 TV Culturales 
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
+#EXTINF:-1,MEX-24 Zacatecas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153572
+#EXTINF:-1,ARG-26TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22091
+#EXTINF:-1,5TV (Corrientes) 
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1,MEX-8 NTV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153553
+#EXTINF:-1 channel-id="pluto-622f447a32669a00071a8986" tvg-id="622f447a32669a00071a8986" tvg-chno="50" tvg-logo="https://images.pluto.tv/channels/622f447a32669a00071a8986/colorLogoPNG.png" group-title="Nuevo en Pluto TV",A las once en casa
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/622f447a32669a00071a8986/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,MEX-A+ 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/59685
+#EXTINF:-1,URU-A+V 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/59815
+#EXTINF:-1 channel-id="pluto-60c25ec6da6d6600074233a8" tvg-id="60c25ec6da6d6600074233a8" tvg-chno="952" tvg-logo="https://images.pluto.tv/channels/60c25ec6da6d6600074233a8/colorLogoPNG.png" group-title="En Español",Acapulco Shore
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,MEX-ADN
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/26681
+#EXTINF:-1,MEX-ADN 40
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1358
+#EXTINF:-1,MEX-Afizzionados 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153303
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/b4363fe68e2cea79e69ccfb224ed725e.png" group-title="Religioso", Alcance TV 
+https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Alegria TV 
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
+#EXTINF:-1,Alf 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37766
+#EXTINF:-1 channel-id="pluto-5e84db2db3851800077c871e" tvg-id="5e84db2db3851800077c871e" tvg-chno="939" tvg-logo="https://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-title="En Español",Amantes del romance
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,MEX-Amas Tv 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153529
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC" tvg-logo="https://i.postimg.cc/LXWKRvGZ/AMC.jpg" group-title="Spain",AMC
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7255
+#EXTINF:-1 tvg-id="amc.us" tvg-name="AMC" tvg-logo="https://i.postimg.cc/sxcPg6Zx/AMC.jpg" group-title="Canales en Ingles",AMC
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/684738
+#EXTINF:-1,RPD-Ame 47 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153960
+#EXTINF:-1,PER-America 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153834
+#EXTINF:-1,ARG-America 24 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/116192
+#EXTINF:-1,CUB - America TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/119689
+#EXTINF:-1,PER-America TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22167
+#EXTINF:-1,ARG-America TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22094
+#EXTINF:-1,ARG-America TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/116193
+#EXTINF:-1,American Crime Story 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37795
+#EXTINF:-1,American Dad 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37860
+#EXTINF:-1,Amor Real
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37808
+#EXTINF:-1 channel-id="pluto-5f1acce7f17797000718f9be" tvg-id="5f1acce7f17797000718f9be" tvg-chno="515" tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" group-title="Comedia",Ana y los 7
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Anatomia de Grey
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37927
+#EXTINF:-1 tvg-id="canalsurandalucia.es" tvg-name="Andalucia ES" tvg-logo="https://i.postimg.cc/TPrRXb0R/Canal-sur-andalucia.png" group-title="Spain",Andalucia ES
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7254
+#EXTINF:-1,Animal Planet 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1072
+#EXTINF:-1,DOC-Animal Planet 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1398
+#EXTINF:-1 tvg-id="5dd834c66fe2ca0009303b8d" tvg-chno="273" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="Curiosidad",Animales
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Animaniacs 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37879
+#EXTINF:-1 channel-id="pluto-608035b8d8705f0007260287" tvg-id="608035b8d8705f0007260287" tvg-chno="565" tvg-logo="https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png" group-title="Animación + Gaming",Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-6054acc871ec430007f54c7d" tvg-id="6054acc871ec430007f54c7d" tvg-chno="560" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="Animación + Gaming",Anime Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Anime Zone TV
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1,MEX-Antena 3 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/26951
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="Antena 3" tvg-logo="https://i.postimg.cc/rs2xw5XQ/Antena-3-2017.png" group-title="Spain",Antena 3
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7253
+#EXTINF:-1,RPD-Antena 7 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/53643
+#EXTINF:-1,Aqui no hay quien viva 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37793
+#EXTINF:-1 tvg-id="5efb8c19b2678b000780d032" tvg-chno="306" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="Maratones",Archivos Forenses
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5f984f4a09e92d0007d74647" tvg-chno="600" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG.png" group-title="Crimen y misterio",Archivos Forenses
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,ARG-Argentinisima 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22096
+#EXTINF:-1,Arrow 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37753
+#EXTINF:-1,BOL-ATB 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153974
+#EXTINF:-1,PER-ATV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153836
+#EXTINF:-1,PER-ATV + 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153837
+#EXTINF:-1 channel-id="pluto-61373c865ed5810007173fbc" tvg-id="61373c865ed5810007173fbc" tvg-chno="550" tvg-logo="https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png" group-title="Animación + Gaming",Avatar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373c865ed5810007173fbc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Avatar La Leyenda de Aang 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/38448
+#EXTINF:-1,Avenida Brasil 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/62998
+#EXTINF:-1,Aventura 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37931
+#EXTINF:-1 tvg-id="5ddc266f80e3550009136843" tvg-chno="279" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="Curiosidad",Aventura
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,ESP - AXN 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117215
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN" tvg-logo="https://i.postimg.cc/xTqtDnP8/AXN.jpg" group-title="Spain",AXN
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7252
+#EXTINF:-1,ESP - AXN White 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117217
+#EXTINF:-1,USA-AXS TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/59964
+#EXTINF:-1,MEX-Az Clic 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/26691
+#EXTINF:-1,MEX-Az Corazón 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/26687
+#EXTINF:-1,MEX-Az Mundo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/26982
+#EXTINF:-1,MEX-Azteca 1 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1329
+#EXTINF:-1,MEX-Azteca 7
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1882
+#EXTINF:-1,MEX-Azteca Clic
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1335
+#EXTINF:-1,MEX-Azteca Corazon 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1332
+#EXTINF:-1,HON-Azteca Honduras 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153915
+#EXTINF:-1,INF-Baby First 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/26883
+#EXTINF:-1,USA-Baby First 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/59965
+#EXTINF:-1,ESP - Baby TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117274
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="Baby TV ES" tvg-logo="https://i.postimg.cc/6pBKfZGy/BabyTV.png" group-title="Spain",Baby TV ES
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/8774
+#EXTINF:-1 channel-id="pluto-5e84dc59026b9b000766f9a2" tvg-id="5e84dc59026b9b000766f9a2" tvg-chno="935" tvg-logo="https://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png" group-title="En Español",Badass novelas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Religioso",Bailen TV
+http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
+#EXTINF:-1,MUS-Bandamax 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/26943
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="Barca TV ES" tvg-logo="https://i.postimg.cc/3JsN53hF/FC-Barcelona-2002.png" group-title="Spain",Barca TV ES
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7250
+#EXTINF:-1,Baron Rojo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37839
+#EXTINF:-1,Basado en Hechos Reales 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37920
+#EXTINF:-1,Batman 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/60048
+#EXTINF:-1 tvg-id="60dafb9a0df1ba000758d37b" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-title="Nuevo en Pluto TV",BBC Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="Be Mad TV ES" tvg-logo="https://i.postimg.cc/JnpC15kW/BeMad.png" group-title="Spain",Be Mad 
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683552
+#EXTINF:-1,Ben 10 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37819
+#EXTINF:-1,Ben 10 Alien Force 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37867
+#EXTINF:-1 tvg-id="betwest.us" tvg-name="BET" tvg-logo="https://i.postimg.cc/qR7Kc9jd/BET-2021.jpg" group-title="Canales en Ingles",BET
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/684741
+#EXTINF:-1,USA-Bet Jams 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/35823
+#EXTINF:-1 tvg-id="betjams.us" tvg-name="BET Jams VIP US" tvg-logo="https://i.postimg.cc/J0qfkY7v/BET-Jams.jpg" group-title="Canales en Ingles",BET Jams VIP
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/684742
+#EXTINF:-1,USA-Bet Soul 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/35824
+#EXTINF:-1,BeyBlade 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37869
+#EXTINF:-1,BHTV 
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1,Bob Esponja 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37847
+#EXTINF:-1 tvg-id="boing.es" tvg-name="Boing ES" tvg-logo="https://i.postimg.cc/WpJqQBY0/Boing-Spain-2020-SVG.png" group-title="Spain",Boing ES
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/8773
+#EXTINF:-1,BOL-Bolivia TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153973
+#EXTINF:-1,BOL-Bolivision 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3751
+#EXTINF:-1,Bonanza 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37820
+#EXTINF:-1,INF-Boomerang 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1370
+#EXTINF:-1 tvg-id="boxhits.uk" tvg-name="Box Hits UK" tvg-logo="https://i.postimg.cc/VsgTTrX4/Box-hits.jpg" group-title="Canales Musicales",Box Hits UK
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/692628
+#EXTINF:-1,Breaking Bad 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/44381
+#EXTINF:-1,Bruce Lee 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37763
+#EXTINF:-1,Buffy La Cazavampiros 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/38495
+#EXTINF:-1,ARG-C5N 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22097
+#EXTINF:-1,PAR-C9N 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/60120
+#EXTINF:-1,Caballeros del Zodiaco 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37815
+#EXTINF:-1,Caballeros del Zodiaco Hades & Alma de oro 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37845
+#EXTINF:-1,Cabalozos y Dragones 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37790
+#EXTINF:-1,Café Con Aroma De Mujer 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/63000
+#EXTINF:-1,ESP - Calle 13 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117219
+#EXTINF:-1,COL-Canal 1 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/118350
+#EXTINF:-1,MEX-Canal 10 Cancun 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153542
 #EXTINF:-1,URU-Canal 10 HD 
 http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/59826
-#EXTINF:-1 tvg-id="" tvg-name="XTRM HD ES" tvg-logo="https://i.postimg.cc/5N6b2TgK/Xtrm-2021.png" group-title="Spain",XTRM HD ES
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/13527
-#EXTINF:-1 tvg-id="mtv90s.ro" tvg-name="MTV 90s VIP UK" tvg-logo="https://i.postimg.cc/8CCgm7Kg/Mtv-90s-logo.png" group-title="United Kingdom",MTV 90s VIP UK
+#EXTINF:-1,GUA-Canal 11 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/60138
+#EXTINF:-1,HON-Canal 11 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153920
+#EXTINF:-1,GUA-Canal 11 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153906
+#EXTINF:-1,SAL-Canal 12 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153902
+#EXTINF:-1,SAL-Canal 12 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3738
+#EXTINF:-1,URU-Canal 12 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153852
+#EXTINF:-1,URU-Canal 12 La Tele 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/59828
+#EXTINF:-1,MEX-Canal 12.1 Colima 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153555
+#EXTINF:-1,CR-Canal 13 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153878
+#EXTINF:-1,NIC-Canal 13 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/5544
+#EXTINF:-1,CHI-Canal 13 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153867
+#EXTINF:-1,CR-Canal 14 Tv Sur 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153879
+#EXTINF:-1,MEX-Canal 15 Fresnillo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153556
+#EXTINF:-1,SAL-Canal 19 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3742
+#EXTINF:-1,Canal 2 
+https://video13.virtualtronics.com/streamer/canal2_360/index.m3u8
+#EXTINF:-1,NIC-Canal 2 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153927
+#EXTINF:-1,SAL-Canal 2 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3739
+#EXTINF:-1,URU-Canal 2 Lascano 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/59818
+#EXTINF:-1,ARG-Canal 21 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22099
+#EXTINF:-1,ARG-Canal 21 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/116194
+#EXTINF:-1,Canal 24 horas 
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1,RPD-Canal 25 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/53644
+#EXTINF:-1,ARG-Canal 26 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153860
+#EXTINF:-1,Canal 26 
+http://live-edge01.telecentro.net.ar/live/c26.smil/playlist.m3u8
+#EXTINF:-1,MEX-Canal 28 Nuevo Leon 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153557
+#EXTINF:-1,GUA-Canal 3 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/60136
+#EXTINF:-1,NIC-Canal 4 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153928
+#EXTINF:-1,SAL-Canal 4 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153901
+#EXTINF:-1,URU-Canal 4 Paysandu 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/59821
+#EXTINF:-1 tvg-logo="http://hondu.tv/wp-content/uploads/2016/10/Canal-48-suyapatv.png" group-title="Religioso",Canal 48
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x833e2b
+#EXTINF:-1,MEX-Canal 5
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1883
+#EXTINF:-1,SAL-Canal 6 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3741
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Canal_6_Nicaraguense.png/200px-Canal_6_Nicaraguense.png" group-title="Religioso",Canal 6
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/canal6nicaraguaoficial
+#EXTINF:-1,HON-Canal 6 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153917
+#EXTINF:-1,NIC-Canal 6 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153929
+#EXTINF:-1,SAL-Canal 6 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153898
+#EXTINF:-1,MEX-Canal 6 Nacional 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153543
+#EXTINF:-1,MEX-Canal 7 SLP 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153559
+#EXTINF:-1,MEX-Canal 8 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153544
+#EXTINF:-1,NIC-Canal 8 TN8 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153930
+#EXTINF:-1,COL-Canal Capital 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/118360
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="Canal Cocina" tvg-logo="https://i.postimg.cc/mkHKNLwL/Canal-Cocina.png" group-title="Spain",Canal Cocina
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7244
+#EXTINF:-1 tvg-logo="https://www.canalcostatv.es/wp-content/uploads/2014/01/logo-canalcosta-tv.jpg" group-title="Religioso",Canal Costa TV
+https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/WXP6YT/playlist.m3u8
+#EXTINF:-1,Canal I 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/107197
+#EXTINF:-1 tvg-logo="https://www.canalisb.cl/imagenes/logo_isb.png" group-title="Religioso",Canal ISB
+https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
+#EXTINF:-1,PER-Canal N 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/31437
+#EXTINF:-1,MEX-Canal Once 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153531
+#EXTINF:-1,ESP - Canal Panda 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117273
+#EXTINF:-1,COL-Canal Uno 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/59846
+#EXTINF:-1,Candy Candy 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37880
+#EXTINF:-1,Cantinflas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/49284
+#EXTINF:-1,Capital 21 
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1,Capitan Planeta 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/38320
+#EXTINF:-1,COL-Caracol  
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22146
+#EXTINF:-1,COL-Caracol 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/59847
+#EXTINF:-1,COL-Caracol
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/118363
+#EXTINF:-1,COL-Caracol Internacional 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/118352
+#EXTINF:-1,CHI-Carolina Tv HD
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1791
+#EXTINF:-1,INF-Cartoon Network 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/26884
+#EXTINF:-1,INF-Cartoon Network 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/26879
+#EXTINF:-1,Casado con hijos 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/62999
+#EXTINF:-1,ESP - Caza y Pesca 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117227
+#EXTINF:-1 tvg-id="" tvg-name="Caza y Pesca" tvg-logo="https://i.postimg.cc/KYQbR89C/Caza-y-Pesca-Logotipo-2016.png" group-title="Spain",Caza y Pesca
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/16269
+#EXTINF:-1 channel-id="pluto-60ed5fb9c4716d0007d180c5" tvg-id="60ed5fb9c4716d0007d180c5" tvg-chno="325" tvg-logo="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png" group-title="Crimen y misterio",Cazador de Homicidas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60ed5fb9c4716d0007d180c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://www.ccichannel.tv/wp-content/uploads/2018/01/CCICHANNELlogo.png" group-title="Religioso",CCI Channel
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x836wjl
+#EXTINF:-1,CHI-CDF 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153869
+#EXTINF:-1,CDM TV 
+http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
+#EXTINF:-1,RPD-CDN 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3655
+#EXTINF:-1,RPD-CDN 2 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3643
+#EXTINF:-1,RPD-CDN 37 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3660
+#EXTINF:-1,CHI-CDO Premium  1 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/2748
+#EXTINF:-1,Chicago P.D 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37784
+#EXTINF:-1,CHI-Chilevision 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153871
+#EXTINF:-1,Chilevision 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1011
+#EXTINF:-1,Chip N Dale 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37840
+#EXTINF:-1 tvg-id="5dd8364ea1d6780009929902" tvg-chno="297" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="Curiosidad",Ciencia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,CienciaFiccion 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37929
+#EXTINF:-1,COL-City Tv 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/118369
+#EXTINF:-1,ARG-Ciudad Magazine 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22104
+#EXTINF:-1 channel-id="pluto-622f42b831233300078658cc" tvg-id="622f42b831233300078658cc" tvg-chno="51" tvg-logo="https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png" group-title="Nuevo en Pluto TV",Ciudadanos por el mundo
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/622f42b831233300078658cc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="Clan TVE" tvg-logo="https://i.postimg.cc/bNVXk58F/Clan.png" group-title="Spain",Clan TVE
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7231
+#EXTINF:-1 tvg-id="classica.de" tvg-name="Classica HD DE" tvg-logo="http://pici.life/DE/classica.png" group-title="Germany",Classica HD DE
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/13167
+#EXTINF:-1 tvg-id="clublandtv.uk" tvg-name="Clubland TV VIP UK" tvg-logo="https://i.postimg.cc/yYXN2Tvt/Clubland-TV-inverted-colours.jpg" group-title="Canales Musicales",Clubland TV VIP UK
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/692622
+#EXTINF:-1,CHI-CNN 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/31520
+#EXTINF:-1,CHI-CNN 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/31522
+#EXTINF:-1,NOT-CNN en Español
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1288
+#EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-chno="554" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="Estilo de Vida",Cocina
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5f1acdaa8ba90f0007d5e760" tvg-chno="700" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Estilo de Vida",Cocina
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1acdaa8ba90f0007d5e760" tvg-id="5f1acdaa8ba90f0007d5e760" tvg-chno="680" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Estilo de Vida",Cocina
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,RPD-Color Vision 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3656
+#EXTINF:-1,ESP - Comedia 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117238
+#EXTINF:-1 tvg-id="5f1abce155a03d0007718834" tvg-chno="500" tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" group-title="Comedia",Comedia made in Spain
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abce155a03d0007718834/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Comedia Sangrienta 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/40279
+#EXTINF:-1,ESP - Comedy Central 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117197
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="Comedy Central" tvg-logo="https://i.postimg.cc/tJNVcrrF/Comedy-Central-2018.jpg" group-title="Spain",Comedy Central
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7230
+#EXTINF:-1 channel-id="pluto-5cf96dad1652631e36d43320" tvg-id="5cf96dad1652631e36d43320" tvg-chno="954" tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG.png" group-title="En Español",Comedy Central en español
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5ffcc21a432945000762d06b" tvg-chno="509" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png" group-title="Comedia",Comedy Central Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Comunion TV 
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
+#EXTINF:-1,Conan el Niño del Futuro 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37884
+#EXTINF:-1,Coraje El Perro Cobarde 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37882
+#EXTINF:-1,Corazon Salvaje 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/63074
+#EXTINF:-1,ESP - COSMO 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117203
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="Cosmopolitan TV" tvg-logo="https://i.postimg.cc/jjbcBN5Q/Cosmo-TV-logo-2020.jpg" group-title="Spain",Cosmopolitan TV
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7229
+#EXTINF:-1,Crimen 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/40271
+#EXTINF:-1,ESP - Crimen Investigacion 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117185
+#EXTINF:-1 channel-id="pluto-5e94cd036cc69d0007e8a1ba" tvg-id="5e94cd036cc69d0007e8a1ba" tvg-chno="918" tvg-logo="https://images.pluto.tv/channels/5e94cd036cc69d0007e8a1ba/colorLogoPNG.png" group-title="En Español",Crímenes imperfectos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Cristianas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/40280
+#EXTINF:-1,ARG-Cronica 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22108
+#EXTINF:-1 channel-id="pluto-604928d54a4f730007ff76bc" tvg-id="604928d54a4f730007ff76bc" tvg-chno="912" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" group-title="En Español",CSI en español
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604928d54a4f730007ff76bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,CTNi (Christian Television Network International) 
+https://584097344c1f0.streamlock.net/48/_definst_/smil:48.smil/playlist.m3u8
+#EXTINF:-1,ESP - Cuatro 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117162
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="Cuatro" tvg-logo="https://i.postimg.cc/MKx1k0YG/Cuatro.png" group-title="Spain",Cuatro
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7228
+#EXTINF:-1,CUB - Cubavision Internacional 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3730
+#EXTINF:-1,CUB - Cubavision Internacional 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/119685
+#EXTINF:-1,PER-Cultura 24 TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153597
+#EXTINF:-1,Cuna de lobos 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/63076
+#EXTINF:-1,Daria 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/38450
+#EXTINF:-1,ESP - DARK 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117221
+#EXTINF:-1,DC Comics Peliculas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37871
+#EXTINF:-1,DC Lego 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37914
+#EXTINF:-1,DC Leyendas Del Mañana 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37773
+#EXTINF:-1,MEX-De Peliculas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153532
+#EXTINF:-1,Death Note 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37821
+#EXTINF:-1,ESP - Decasa 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117199
+#EXTINF:-1,Defensores de la Tierra 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/44382
+#EXTINF:-1,Denver The Last dinosaur 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37873
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="Destination America" tvg-logo="https://i.postimg.cc/k4ckzhrs/Destination-America-2015.png" group-title="United States",Destination America
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/684748
+#EXTINF:-1,Detective Conan 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/38813
+#EXTINF:-1,Dexter 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/44379
+#EXTINF:-1,Diarios De Vampiros 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/63086
+#EXTINF:-1,Digimon 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37814
+#EXTINF:-1,RPD-Digital Vision Canal 63 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153961
+#EXTINF:-1,URU - DirectTV Sports
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/120872
+#EXTINF:-1 group-title="----------", Discovery
+http://190.83.119.67:8000/play/a0tb/index.m3u8
+#EXTINF:-1,Discovery Channel 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1068
+#EXTINF:-1,DOC-Discovery Channel 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/26891
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="Discovery Channel ES" tvg-logo="https://i.postimg.cc/W4SZSYHr/Discovery-Channel-2019.jpg" group-title="Spain",Discovery Channel ES
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7226
+#EXTINF:-1,DOC-Discovery HGTV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1416
+#EXTINF:-1,Discovery Home & Health 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1080
+#EXTINF:-1,DOC-Discovery Home & Health 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1402
+#EXTINF:-1,NIC-Discovery ID
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153932
+#EXTINF:-1,DOC-Discovery Science 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1418
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="Discovery Science" tvg-logo="https://i.postimg.cc/HnWCL10F/Discovery-Science-2017.png" group-title="Canales en Ingles",Discovery Science
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/684762
+#EXTINF:-1,DOC-Discovery Theater 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/26895
+#EXTINF:-1,DOC-Discovery TLC 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/26890
+#EXTINF:-1,DOC-Discovery TLC 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1422
+#EXTINF:-1,DOC-Discovery Turbo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1083
+#EXTINF:-1,DOC-Discovery Turbo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1404
+#EXTINF:-1,DOC-Discovery World 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1424
+#EXTINF:-1,Disney Animacion 3D 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37910
+#EXTINF:-1,Disney Channel 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1069
+#EXTINF:-1,ESP - Disney Channel 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117268
+#EXTINF:-1,INF-Disney Channel 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1377
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="Disney Channel" tvg-logo="https://i.postimg.cc/qRsQwNKv/Disney-channel-2019.png" group-title="Spain",Disney Channel
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/16287
+#EXTINF:-1,Disney Clasicos Animados 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37908
+#EXTINF:-1,INF-Disney Jr 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1379
+#EXTINF:-1,INF-Disney JR 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/26878
+#EXTINF:-1,ESP - Disney+ 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117275
+#EXTINF:-1,ESP - Divinity 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117177
+#EXTINF:-1,ESP - Dkiss 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117175
+#EXTINF:-1,ESP - DMAX 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117176
+#EXTINF:-1 tvg-id="60d3574e97f10800078455de" tvg-chno="50" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" group-title="Nuevo en Pluto TV",Doctor Who
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5f9992c685a2a80007fa414a" tvg-chno="325" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="Maratones",Dog el cazarrecompensas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Don Gato y su Pandilla 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37886
+#EXTINF:-1 channel-id="pluto-624466b26ab25e0007dd7cfb" tvg-id="624466b26ab25e0007dd7cfb" tvg-chno="54" tvg-logo="https://images.pluto.tv/channels/624466b26ab25e0007dd7cfb/colorLogoPNG.png" group-title="Nuevo en Pluto TV",Dora la Exploradora
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624466b26ab25e0007dd7cfb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Doraemon 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37883
+#EXTINF:-1,Dr. House 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/54925
+#EXTINF:-1,Dragon Ball 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37816
+#EXTINF:-1,Dragon Ball GT 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37831
+#EXTINF:-1,Dragon Ball Peliculas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/119556
+#EXTINF:-1,Dragon Ball Super 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37841
+#EXTINF:-1,Dragon Ball Z - Saga Cell 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37826
+#EXTINF:-1,Dragon Ball Z - Saga de Freezer 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37812
+#EXTINF:-1,Dragon Ball Z - Saga Majin Boo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37813
+#EXTINF:-1,Dragon Quest Las aventuras de Fly 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/38319
+#EXTINF:-1,Drake y Josh  
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37768
+#EXTINF:-1,Drama 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37912
+#EXTINF:-1,ESP - Dreamworks 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117277
+#EXTINF:-1,Droopy El gran detective 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/63334
+#EXTINF:-1,NOT-DW
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1293
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ANW1pIH.png" group-title="Religioso",Ebenezer TV
+http://p1.worldkast.com/ebenezertv2/ngrp:ebenezertv2_all/playlist.m3u8
+#EXTINF:-1,Ecomoda 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/62996
+#EXTINF:-1,ECU-Ecuavisa Costa 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22161
+#EXTINF:-1,ECU-Ecuavisa Quito 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/121619
+#EXTINF:-1,24/7 Ed, Edd y Eddy 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37853
+#EXTINF:-1,El Buen Doctor  
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37775
+#EXTINF:-1,El Chapulin Colorado 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37765
+#EXTINF:-1,El Chavo del 8 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37746
+#EXTINF:-1,El Chavo del 8 HQ 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37761
+#EXTINF:-1,El Conde Patula 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37888
+#EXTINF:-1 tvg-id="60e45687313c5f0007bc8e94" tvg-chno="53" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png" group-title="Nuevo en Pluto TV",El encantador de perros
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e45687313c5f0007bc8e94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,El hombre de los seis millones de dólares 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/63335
+#EXTINF:-1,El loco mundo de Tex Avery 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/63332
+#EXTINF:-1,ARG-El Nueve 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/116197
+#EXTINF:-1,El nuevo show del Pájaro Loco 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37852
+#EXTINF:-1,El Pingüino TV  
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
+#EXTINF:-1,ARG-El Trece 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/116200
+#EXTINF:-1,ARG-El Trece 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22098
+#EXTINF:-1,ARG-El Trece 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/116199
+#EXTINF:-1,El Zorro 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37782
+#EXTINF:-1 channel-id="pluto-60492a1e6361250007679665" tvg-id="60492a1e6361250007679665" tvg-chno="920" tvg-logo="https://images.pluto.tv/channels/60492a1e6361250007679665/colorLogoPNG.png" group-title="En Español",Emergencia 911
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492a1e6361250007679665/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5f23102d5e239d00074b092a" tvg-chno="323" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" group-title="Maratones",Empeños a lo bestia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,En Busca del Valle Encantado 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37846
+#EXTINF:-1,ESP - Energy 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117178
+#EXTINF:-1 tvg-id="energy.es" tvg-name="Energy ES" tvg-logo="https://i.postimg.cc/GttHMcyn/Energy-2013.jpg" group-title="Spain",Energy ES
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/8765
+#EXTINF:-1 channel-id="pluto-60492c67f4c48700075b5d37" tvg-id="60492c67f4c48700075b5d37" tvg-chno="944" tvg-logo="https://images.pluto.tv/channels/60492c67f4c48700075b5d37/colorLogoPNG.png" group-title="En Español",Entre nosotras
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492c67f4c48700075b5d37/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,USA-EPIX 1 Este
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/65390
+#EXTINF:-1,USA-EPIX Hits
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/65393
+#EXTINF:-1,Erase Una Vez 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/62474
+#EXTINF:-1,REL-Esperanza TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/5546
+#EXTINF:-1,ARG-Espn 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22112
+#EXTINF:-1 channel-id="pluto-5cf0622da00ca1e2f6fac712" tvg-id="5cf0622da00ca1e2f6fac712" tvg-chno="946" tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png" group-title="En Español",EstrellaTV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Estrenos 2019 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/55349
+#EXTINF:-1,Estrenos 2020 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/55628
+#EXTINF:-1,Estrenos Accion 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/144548
+#EXTINF:-1,Estrenos Animacion 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/144549
+#EXTINF:-1,Estrenos Aventura 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/144550
+#EXTINF:-1,Estrenos CienciaFiccion 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/144551
+#EXTINF:-1,Estrenos Comedia 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/144552
+#EXTINF:-1,Estrenos Disney 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/144553
+#EXTINF:-1 tvg-id="etbsat.es" tvg-name="ETB 1" tvg-logo="https://i.postimg.cc/MpFDSvjd/ETB1-2022.png" group-title="Spain",ETB 1
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/684922
+#EXTINF:-1,ETC 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1027
+#EXTINF:-1,PER-Exitosa 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153592
+#EXTINF:-1,CR-Extrema TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153880
+#EXTINF:-1 channel-id="pluto-554158e864526b29254ff105" tvg-id="554158e864526b29254ff105" tvg-chno="498" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png" group-title="Comedy",FailArmy
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/554158e864526b29254ff105/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5ebaccf1734aaf0007142c86" tvg-chno="502" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="Comedia",FailArmy
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5f1abf5fafb5ee0007d4d0ca" tvg-chno="525" tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" group-title="Comedia",FailArmy
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1abf5fafb5ee0007d4d0ca" tvg-id="5f1abf5fafb5ee0007d4d0ca" tvg-chno="860" tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" group-title="LOL",FailArmy
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Fantasia 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37921
+#EXTINF:-1,PAR-Farra Play 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/60121
+#EXTINF:-1 channel-id="pluto-60c882460ea4a200076a2a37" tvg-id="60c882460ea4a200076a2a37" tvg-chno="685" tvg-logo="https://images.pluto.tv/channels/60c882460ea4a200076a2a37/colorLogoPNG.png" group-title="Estilo de Vida",Fashion TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c882460ea4a200076a2a37/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="fashiontv.ro" tvg-name="Fashion TV FHD US" tvg-logo="https://i.postimg.cc/X73pWM6c/FASHION-TV-2017.png" group-title="United States",Fashion TV FHD US
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/14362
+#EXTINF:-1 tvg-id="5ee8d84bfb286e0007285aad" tvg-chno="563" tvg-logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png" group-title="Estilo de Vida",FashionBox
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="FDF ES" tvg-logo="https://i.postimg.cc/FzKFpJ6y/Fdf.png" group-title="Spain",FDF ES
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7221
+#EXTINF:-1,Fear the Walking Dead
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/61987
+#EXTINF:-1,Flash 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37747
+#EXTINF:-1 channel-id="pluto-5d8d0fbaa8742fa3093899da" tvg-id="5d8d0fbaa8742fa3093899da" tvg-chno="930" tvg-logo="https://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/colorLogoPNG.png" group-title="En Español",Foodies
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,MEX-Foro TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153534
+#EXTINF:-1,ESP - FOX 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117223
+#EXTINF:-1 tvg-id="fox.es" tvg-name="Fox" tvg-logo="https://i.postimg.cc/8zsryCNk/FOX-International.png" group-title="Spain",Fox
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/16267
+#EXTINF:-1,Fox Premier Series
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37752
+#EXTINF:-1 group-title="Canales Deportivos", Fox Sports 3
+http://190.83.119.67:8000/play/a0t7/index.m3u8
+#EXTINF:-1,Fuerza G 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/38321
+#EXTINF:-1,FUTV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/107221
+#EXTINF:-1 tvg-id="fx.us" tvg-name="FX FHD US" tvg-logo="https://i.postimg.cc/VvnfqpFs/FX.jpg" group-title="United States",FX FHD US
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/13763
+EXTINF:-1 tvg-id="fx.us" tvg-name="FX HD US" tvg-logo="https://i.postimg.cc/VvnfqpFs/FX.jpg" group-title="United States",FX HD US
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/4942
+#EXTINF:-1,Galavision 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/103619
+#EXTINF:-1,ECU-Gama TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22152
+#EXTINF:-1,Garfield y sus amigos 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/58032
+#EXTINF:-1,PAR-Gen TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/60122
+#EXTINF:-1,Glee 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/52877
+#EXTINF:-1,VEN-Globavision 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153986
+#EXTINF:-1,ESP - GOL 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117131
+#EXTINF:-1,PER-GOL Peru 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153835
+#EXTINF:-1,ECU-Gol TV
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1097
+#EXTINF:-1 tvg-id="gol.es" tvg-name="Gol TV" tvg-logo="https://i.postimg.cc/3Rm9183f/Gol.png" group-title="Spain",Gol TV
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/13457
+#EXTINF:-1,Gravity Falls 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37823
+#EXTINF:-1,GUA-Guatevision 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153909
+#EXTINF:-1,H2 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1062
+#EXTINF:-1,Hajime no Ippo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37863
+#EXTINF:-1,Happy Tree Friends 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37866
+#EXTINF:-1,Harry Potter 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37755
+#EXTINF:-1,HBO Signature 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/2108
+#EXTINF:-1,HBO Xtreme
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/2106
+#EXTINF:-1,HON-HCH 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153918
+#EXTINF:-1,Heartland 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/61676
+#EXTINF:-1,Heidi 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/38322
+#EXTINF:-1 channel-id="pluto-60492b2794116800073e32dc" tvg-id="60492b2794116800073e32dc" tvg-chno="931" tvg-logo="https://images.pluto.tv/channels/60492b2794116800073e32dc/colorLogoPNG.png" group-title="En Español",Hell's Kitchen en español
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492b2794116800073e32dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,He-Man y los amos del universo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37771
+#EXTINF:-1,DOC-HGTV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1417
+#EXTINF:-1,VEN-Hispantv 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153994
+#EXTINF:-1,ESP - Historia 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117191
+#EXTINF:-1 tvg-id="5de5758e1a30dc00094fcd6c" tvg-chno="286" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="Curiosidad",Historia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="historia.es" tvg-name="Historia" tvg-logo="https://i.postimg.cc/sxQTdTQw/Historia-2016.jpg" group-title="Spain",Historia
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7217
+#EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-chno="263" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="Curiosidad",Historias de Ultratumba
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canales de Investigacion", History 2
+http://190.83.119.67:8000/play/a0r7/index.m3u8
+#EXTINF:-1,DOC-History Channel 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1406
+#EXTINF:-1,History Channel 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1074
+#EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-chno="557" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="Estilo de Vida",Hogar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,ESP - Hollywood 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117231
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="Hollywood" tvg-logo="https://i.postimg.cc/GpPKRjSh/Canal-Hollywood.jpg" group-title="Spain",Hollywood
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/8768
+#EXTINF:-1,Hora de Aventura 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37858
+#EXTINF:-1,MUS-HTV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/69248
+#EXTINF:-1 tvg-id="5e8397936791b30007ebb5a7" tvg-chno="507" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="Comedia",Humor
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Hunter x Hunter 2011 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/38420
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="Iberalia ES" tvg-logo="https://i.postimg.cc/ZYQdWT29/iberalia-tv-logo.png" group-title="Spain",Iberalia ES
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7171
+#EXTINF:-1,iCarly  
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37769
+#EXTINF:-1,MEX-Imagen
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1884
+#EXTINF:-1,MEX-Impactovision 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153563
+#EXTINF:-1,Inspector Gadget 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37878
+#EXTINF:-1,Inuyasha 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/38496
+#EXTINF:-1 channel-id="pluto-5cf96b8f4f1ca3f0629f4bf1" tvg-id="5cf96b8f4f1ca3f0629f4bf1" tvg-chno="917" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png" group-title="En Español",Investiga
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5dcde27ffae9520009c0c75a" tvg-chno="254" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="Curiosidad",Investiga
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-602ba1cfb386d30007aecbbe" tvg-id="602ba1cfb386d30007aecbbe" tvg-chno="305" tvg-logo="https://images.pluto.tv/channels/602ba1cfb386d30007aecbbe/colorLogoPNG.png" group-title="Crimen y misterio",Investiga
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602ba1cfb386d30007aecbbe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,DOC-Investigation Discovery 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/26898
+#EXTINF:-1,DOC-Investigation Discovery 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/63679
+#EXTINF:-1,PER-IPE 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153595
+#EXTINF:-1,ITV Patagonia 
+https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/playlist.m3u8
+#EXTINF:-1,VEN-IVC 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153996
+#EXTINF:-1,Jackie Chan 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/54827
+#EXTINF:-1,MEX-Jalisco TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153564
+#EXTINF:-1,Jimmy Neutron 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37887
+#EXTINF:-1,JNE TV 
+https://dc1.webstream.eu/hls/hls/jnetvhdstreaming_high/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Brfh2M.png" group-title="Religioso",Jres TV
+http://teleredmcp.com:1935/jrestv/jrestv/playlist.m3u8
+#EXTINF:-1,Juego de Tronos 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37751
+#EXTINF:-1,Juego de tronos 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/63763
+#EXTINF:-1 tvg-id="jukebox.de" tvg-name="Jukebox DE" tvg-logo="https://i.postimg.cc/L6MCq38M/Jukebox.png" group-title="Germany",Jukebox DE
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/13148
+#EXTINF:-1 tvg-id="60a286daf888610007669801" tvg-chno="505" tvg-logo="https://images.pluto.tv/channels/60a286daf888610007669801/colorLogoPNG.png" group-title="Comedia",Just for Laughs
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-6176ff3ba00900000763710f" tvg-id="6176ff3ba00900000763710f" tvg-chno="189" tvg-logo="https://images.pluto.tv/channels/6176ff3ba00900000763710f/colorLogoPNG.png" group-title="Canales Musicales",K-Content by CJ ENM
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176ff3ba00900000763710f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="kerrang.uk" tvg-name="Kerrang TV UK" tvg-logo="https://i.postimg.cc/65YXdbHW/Kerrang!.jpg" group-title="Canales Musicales",Kerrang TV UK
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/692624
+#EXTINF:-1,Kick Buttowski 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37872
+#EXTINF:-1,KND  Los Chicos Del Barrio 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37856
+#EXTINF:-1 tvg-id="kronetv.at" tvg-name="Kronehit" tvg-logo="https://i.postimg.cc/G2yKt402/kronehit.png" group-title="Germany",Kronehit
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/14200
+#EXTINF:-1,La 1 
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1,ESP - La 2 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117156
+#EXTINF:-1,La Casa de Mickey Mouse 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37834
+#EXTINF:-1,La Casa de Papel 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37774
+#EXTINF:-1 tvg-id="5f1abe3ffcd659000770d88d" tvg-chno="310" tvg-logo="https://images.pluto.tv/channels/5f1abe3ffcd659000770d88d/colorLogoPNG.png" group-title="MTV en Pluto TV",La Chica Invisible
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abe3ffcd659000770d88d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,La Familia P. Luche 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37757
+#EXTINF:-1,La hija del Mariachi 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/63078
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LaLuzTv/picture?width=320&height=320" group-title="Religioso",La Luz TV
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
+#EXTINF:-1,La Mascara 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37804
+#EXTINF:-1 channel-id="pluto-60f58f2278490000079bc47b" tvg-id="60f58f2278490000079bc47b" tvg-chno="53" tvg-logo="https://images.pluto.tv/channels/60f58f2278490000079bc47b/colorLogoPNG.png" group-title="Nuevo en Pluto TV",La niñera
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f58f2278490000079bc47b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,La Pantera Rosa 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/38447
+#EXTINF:-1,La que se avecina 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/38318
+#EXTINF:-1,CHI-La Red 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153874
+#EXTINF:-1,URU-La Red Uruguay 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/59830
+#EXTINF:-1,ESP - La Sexta 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117166
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA Sexta" tvg-logo="https://i.postimg.cc/FKfLbThT/La-Sexta-2016.jpg" group-title="Spain",LA Sexta
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/16260
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA Sexta" tvg-logo="https://i.postimg.cc/FKfLbThT/La-Sexta-2016.jpg" group-title="Spain",LA Sexta
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7213
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA Sexta ES" tvg-logo="https://i.postimg.cc/FKfLbThT/La-Sexta-2016.jpg" group-title="Spain",LA Sexta ES
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/6671
+#EXTINF:-1,La Tremenda Corte 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/54954
+#EXTINF:-1,La Usurpadora 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/59232
+#EXTINF:-1,La Vaca y el Pollito 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/63333
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA1" tvg-logo="https://i.postimg.cc/htD8m8JY/TVE-1.png" group-title="Spain",LA1
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/8782
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA2" tvg-logo="https://i.postimg.cc/mrq7K0dx/TVE-2.png" group-title="Spain",LA2
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/8781
+#EXTINF:-1,LA7
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1,Lady Oscar La Rosa de Versalles 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/38421
+#EXTINF:-1,Las aventuras de los Osos Gummi 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/54222
+#EXTINF:-1,MEX-Las Estrellas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153528
+#EXTINF:-1,Las Locuras del Emperador 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37875
+#EXTINF:-1 channel-id="pluto-61373f1a12dd9f00077dcd6f" tvg-id="61373f1a12dd9f00077dcd6f" tvg-chno="555" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="Animación + Gaming",Las Tortugas Ninja
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373f1a12dd9f00077dcd6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5df41355939756000921d15b" tvg-chno="330" tvg-logo="https://images.pluto.tv/channels/5df41355939756000921d15b/colorLogoPNG.png" group-title="Maratones",Latin Angels
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df41355939756000921d15b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,PER-Latina 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153838
+#EXTINF:-1,URU-Latina Tv Paysandu 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/59834
+#EXTINF:-1,Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1,LGBT Queer As Folk 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/52944
+#EXTINF:-1,LGBT RuPaul's Drag Race 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/54812
+#EXTINF:-1,LGBT The L Word 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/52943
+#EXTINF:-1,Lilo y Stitch 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37885
+#EXTINF:-1,ARG-LN 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153864
+#EXTINF:-1,Locke Y Key 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/63765
+#EXTINF:-1,Looney Tunes 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37848
+#EXTINF:-1,Los 100 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37772
+#EXTINF:-1,Los Años Maravillosos 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37760
+#EXTINF:-1 tvg-id="5e67d41b93312100076f3fca" tvg-chno="305" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="Maratones",Los archivos del FBI
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1acbed25948a0007ffbe65" tvg-id="5f1acbed25948a0007ffbe65" tvg-chno="315" tvg-logo="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png" group-title="Crimen y misterio",Los archivos del FBI
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Los Halcones Galacticos 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/44380
+#EXTINF:-1,Los justicieros HQ 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/38632
+#EXTINF:-1 tvg-id="5f1acba0d1f6340007db8843" tvg-chno="605" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="Crimen y misterio",Los nuevos detectives
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Los Originales 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/63077
+#EXTINF:-1,Los Padrinos Magicos 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37832
+#EXTINF:-1,Los Picapiedras 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37854
+#EXTINF:-1,Los Pinguinos de Madagascar 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37830
+#EXTINF:-1,Los Pitufos 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/44375
+#EXTINF:-1,Los Serrano 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/63585
+#EXTINF:-1,Los Simpsons S01 a S20 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37767
+#EXTINF:-1,Los Simpsons S20 a S30  
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37758
+#EXTINF:-1,Los Supersonicos
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37876
+#EXTINF:-1,Los Thundercats 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37837
+#EXTINF:-1,DOC-Love Nature 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1385
+#EXTINF:-1 tvg-id="60dd6b1da79e4d0007309455" tvg-chno="54" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="Nuevo en Pluto TV",Love Nature
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Lucifer 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37783
+#EXTINF:-1,Luz Clarita 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/62993
+#EXTINF:-1,Macgyver 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/44374
+#EXTINF:-1 tvg-id="5f1aaefb96f755000733c11a" tvg-chno="320" tvg-logo="https://images.pluto.tv/channels/5f1aaefb96f755000733c11a/colorLogoPNG.png" group-title="MTV en Pluto TV",MADE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aaefb96f755000733c11a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="magic.uk" tvg-name="Magic VIP UK" tvg-logo="https://i.postimg.cc/T3pZndL0/Magic.jpg" group-title="Canales Musicales",Magic VIP UK
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/692626
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Religioso",Majestad Television
+https://5b3050bb1b2d8.streamlock.net/majestadtv/majestadtv/playlist.m3u8
+#EXTINF:-1,Malcolm in the Middle 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37750
+#EXTINF:-1,Manual de supervivencia escolar de Ned 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37779
+#EXTINF:-1,María la del barrio 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/62994
+#EXTINF:-1,María Mercedes 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/59233
+#EXTINF:-1,Marimar 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/58061
+#EXTINF:-1,Marvel Comics 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37909
+#EXTINF:-1,Marvel Comics Peliculas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37911
+#EXTINF:-1,Masha y el Oso 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37822
+#EXTINF:-1 tvg-id="5e3ddbd27091820009f86dd9" tvg-chno="320" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="Maratones",MasterChef
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Matrimonio con hijos 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/44377
+#EXTINF:-1,Mazinger Z 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/38520
+#EXTINF:-1,CHI-Mega 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3204
+#EXTINF:-1,ESP - MEGA 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117172
+#EXTINF:-1,Mega 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1008
+#EXTINF:-1 tvg-id="mega.es" tvg-name="Mega ES" tvg-logo="https://i.postimg.cc/m2hP40rb/Mega-Spain-2015.png" group-title="Spain",Mega 
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/13824
+#EXTINF:-1,CHI-Mega plus
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1757
+#EXTINF:-1,USA-Mega TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/61675
+#EXTINF:-1,Mega Tv Miami 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/104127
+#EXTINF:-1,SAL-Megavision Canal 19
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153903
+#EXTINF:-1,Mentes Criminales 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/62479
+#EXTINF:-1,Meteoro 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37865
+#EXTINF:-1,ARG-Metro 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22116
+#EXTINF:-1,MEX-Mexiquense
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1351
+#EXTINF:-1 tvg-id="mezzo.es" tvg-name="Mezzo" tvg-logo="https://i.postimg.cc/XJr4y0BL/Mezzo.png" group-title="Spain",Mezzo
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7212
+#EXTINF:-1 channel-id="pluto-5d93b4d71754e6a4298d086e" tvg-id="5d93b4d71754e6a4298d086e" tvg-chno="948" tvg-logo="https://images.pluto.tv/channels/5d93b4d71754e6a4298d086e/colorLogoPNG.png" group-title="En Español",Mi obsesión favorita
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 ,Microvision
+http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
+#EXTINF:-1,Mighty Morphin Power Rangers 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/38456
+#EXTINF:-1,Mikami la Cazafantasmas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37748
+#EXTINF:-1,MEX-Milenio TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1352
+#EXTINF:-1 tvg-id="5e46e64dc73db400094b5f0b" tvg-chno="317" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" group-title="Maratones",Minuto Para Ganar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5dcde2f53449c50009b2b4dc" tvg-chno="262" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="Curiosidad",Misterios
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5f230e416b68ff00075b0139" tvg-chno="265" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="Curiosidad",Misterios Medicos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f4d882d5233170007ee880e" tvg-id="5f4d882d5233170007ee880e" tvg-chno="924" tvg-logo="https://images.pluto.tv/channels/5f4d882d5233170007ee880e/colorLogoPNG.png" group-title="En Español",Misterios sin resolver
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d882d5233170007ee880e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5f610042272f68000867685b" tvg-chno="309" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Maratones",Misterios sin Resolver
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Modern Family 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37932
+#EXTINF:-1,MonsterVerse 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37917
+#EXTINF:-1,URU-Monte carlo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22174
+#EXTINF:-1,Motel Bates 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/61936
+#EXTINF:-1,ESP -Movistar #0 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117211
+#EXTINF:-1 tvg-id="cero.es" tvg-name="Movistar #0" tvg-logo="https://i.postimg.cc/ZnJnQHht/0-por-Movistar-Plus-2022-logo-svg.jpg" group-title="Spain",Movistar #0
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/13539
+#EXTINF:-1,ESP -Movistar Accion 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117233
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="Movistar Accion" tvg-logo="https://i.postimg.cc/brXK5rK7/Accio-n-por-Movistar-Plus.jpg" group-title="Spain",Movistar Accion
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7245
+#EXTINF:-1,Movistar Comedia 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37913
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="Movistar Comedia" tvg-logo="https://i.postimg.cc/RFm7bzgP/Comedia-por-Movistar-Plus.jpg" group-title="Spain",Movistar Comedia
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7243
+#EXTINF:-1,ESP - Movistar Drama 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117240
+#EXTINF:-1,ESP -Movistar Estrenos 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117242
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos 2" tvg-logo="https://i.postimg.cc/zf2rrv5x/Estrenos-2-por-Movistar-Plus.jpg" group-title="Spain",Movistar Estrenos 2
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/694263
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="Movistar Estrenos ES" tvg-logo="https://i.postimg.cc/P54vr8yM/Estrenos-por-Movistar-Plus.jpg" group-title="Spain",Movistar Estrenos ES
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7222
+#EXTINF:-1,MUS-MTV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1306
+#EXTINF:-1,MUS-MTV
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/26934
+#EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="MTV Classic VIP US" tvg-logo="https://i.postimg.cc/KjxLw68j/MTV-Classic.jpg" group-title="United States",MTV 00´s
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/687542
+#EXTINF:-1,MUS-MTV 00´s
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1320
+#EXTINF:-1,MUS-MTV 00´s
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1325
+#EXTINF:-1,MUS-MTV 00's
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/26941
+#EXTINF:-1,MUS-MTV 80´s
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1323
+#EXTINF:-1 tvg-id="vh1classic.de" tvg-name="MTV 80s DE" tvg-logo="https://i.postimg.cc/L6d7tMvw/Mtv-80s-logo.png" group-title="Germany",MTV 80s DE
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/638080
+#EXTINF:-1 tvg-id="mtv80s.ro" tvg-name="MTV 80s VIP UK" tvg-logo="https://i.postimg.cc/ht17bBkJ/Mtv_80s_logo.jpg" group-title="Canales Musicales",MTV 80s VIP UK
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/692613
+#EXTINF:-1 tvg-id="mtv90s.ro" tvg-name="MTV 90s VIP UK" tvg-logo="https://i.postimg.cc/8CCgm7Kg/Mtv-90s-logo.png" group-title="Canales Musicales",MTV 90s VIP UK
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/692615
-#EXTINF:-1,Teleritmo (Monterrey) (480p)
+#EXTINF:-1 tvg-id="mtvbase.uk" tvg-name="MTV Base HD VIP UK" tvg-logo="https://i.postimg.cc/bN2JLhty/MTV_Base_UK_2021.jpg" group-title="Canales Musicales",MTV Base HD VIP UK
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/692612
+#EXTINF:-1 channel-id="pluto-5f1aaefb96f755000733c11a" tvg-id="5f1aaefb96f755000733c11a" tvg-chno="440" tvg-logo="https://images.pluto.tv/channels/5f1aaefb96f755000733c11a/colorLogoPNG.png" group-title="MTV en Pluto TV",MTV Brave
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aaefb96f755000733c11a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5f1ab3c7778230000735cf41" tvg-chno="305" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="MTV en Pluto TV",MTV Catfish TV Show
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1ab3c7778230000735cf41" tvg-id="5f1ab3c7778230000735cf41" tvg-chno="405" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="MTV en Pluto TV",MTV Catfish TV Show
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5f1ab9c6d8f1300007f54e30" tvg-chno="315" tvg-logo="https://images.pluto.tv/channels/5f1ab9c6d8f1300007f54e30/colorLogoPNG.png" group-title="MTV en Pluto TV",MTV Cribs
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ab9c6d8f1300007f54e30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1ab9c6d8f1300007f54e30" tvg-id="5f1ab9c6d8f1300007f54e30" tvg-chno="450" tvg-logo="https://images.pluto.tv/channels/5f1ab9c6d8f1300007f54e30/colorLogoPNG.png" group-title="MTV en Pluto TV",MTV Cribs
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ab9c6d8f1300007f54e30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="600169ec77e6f70008fa9cf0" tvg-chno="340" tvg-logo="https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png" group-title="MTV en Pluto TV",MTV Dating
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600169ec77e6f70008fa9cf0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-600169ec77e6f70008fa9cf0" tvg-id="600169ec77e6f70008fa9cf0" tvg-chno="445" tvg-logo="https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png" group-title="MTV en Pluto TV",MTV Dating
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600169ec77e6f70008fa9cf0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5f98537a5a4341000733aefe" tvg-chno="335" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="MTV en Pluto TV",MTV Embarazada a los 16
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5a4341000733aefe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f98537a5a4341000733aefe" tvg-id="5f98537a5a4341000733aefe" tvg-chno="420" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="MTV en Pluto TV",MTV Embarazada a los 16
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5a4341000733aefe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5cf96d351652631e36d4331f" tvg-id="5cf96d351652631e36d4331f" tvg-chno="953" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="En Español",MTV en español
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,ESP - MTV España 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117279
+#EXTINF:-1,MUS-MTV Hits
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1304
+#EXTINF:-1,MUS-MTV Live 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/26939
+#EXTINF:-1,USA-MTV Live 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/58066
+#EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-chno="300" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="MTV en Pluto TV",MTV Originals
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1aae8c65727d0007d15a17" tvg-id="5f1aae8c65727d0007d15a17" tvg-chno="430" tvg-logo="https://images.pluto.tv/channels/5f1aae8c65727d0007d15a17/colorLogoPNG.png" group-title="MTV en Pluto TV",MTV Prank
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aae8c65727d0007d15a17/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-6130d8dc943001000708548d" tvg-id="6130d8dc943001000708548d" tvg-chno="425" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png" group-title="MTV en Pluto TV",MTV Realities
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6130d8dc943001000708548d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="6087c6c5db549e0007eead39" tvg-chno="70" tvg-logo="https://images.pluto.tv/channels/6087c6c5db549e0007eead39/colorLogoPNG.png" group-title="Última oportunidad",MTV Summer Hits
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6087c6c5db549e0007eead39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-611b87946b7f420007c22361" tvg-id="611b87946b7f420007c22361" tvg-chno="400" tvg-logo="https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png" group-title="MTV en Pluto TV",MTV Tattoo a dos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611b87946b7f420007c22361/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="604f81a49ef73300070e554f" tvg-chno="307" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" group-title="MTV en Pluto TV",MTV Teen Mom
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604f81a49ef73300070e554f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-604f81a49ef73300070e554f" tvg-id="604f81a49ef73300070e554f" tvg-chno="415" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" group-title="MTV en Pluto TV",MTV Teen Mom
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604f81a49ef73300070e554f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="mtv2.us" tvg-name="MTV2" tvg-logo="https://i.postimg.cc/1tgXM6Vv/MTV2-2013.jpg" group-title="Canales en Ingles",MTV2
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683899
+#EXTINF:-1,MEX-Multimedio Guadalajara 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153546
+#EXTINF:-1,MEX-Multimedio Monterrey 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153547
+#EXTINF:-1,MEX-Multimedios 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1354
+#EXTINF:-1,CUB - Multivision 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153892
+#EXTINF:-1,Multivisión Federal 
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 channel-id="pluto-6051201a0aa8a70007c24a2a" tvg-id="6051201a0aa8a70007c24a2a" tvg-chno="928" tvg-logo="https://images.pluto.tv/channels/6051201a0aa8a70007c24a2a/colorLogoPNG.png" group-title="En Español",Mundo geek
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60492a9bbca75b0007b1bfd5" tvg-id="60492a9bbca75b0007b1bfd5" tvg-chno="922" tvg-logo="https://images.pluto.tv/channels/60492a9bbca75b0007b1bfd5/colorLogoPNG.png" group-title="En Español",Mundo paranormal
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492a9bbca75b0007b1bfd5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60511efd71ec430007f50d97" tvg-id="60511efd71ec430007f50d97" tvg-chno="926" tvg-logo="https://images.pluto.tv/channels/60511efd71ec430007f50d97/colorLogoPNG.png" group-title="En Español",Mundo viajero
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60493045fbb5e50007b36f4d" tvg-id="60493045fbb5e50007b36f4d" tvg-chno="973" tvg-logo="https://images.pluto.tv/channels/60493045fbb5e50007b36f4d/colorLogoPNG.png" group-title="En Español",Naruto en español
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Naruto Shippuden 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37811
+#EXTINF:-1 group-title="---------", Nat Geo
+http://190.83.119.67:8000/play/a0t8/index.m3u8
+#EXTINF:-1,ESP - Nat Geo Wild 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117193
+#EXTINF:-1,DOC-NatGeo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1409
+#EXTINF:-1,NatGeo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1065
+#EXTINF:-1,NatGeo Wild Ñ 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1077
+#EXTINF:-1,ESP - National Geographic 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117194
+#EXTINF:-1 tvg-id="5dd85eac039bba0009e86d1d" tvg-chno="271" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="Curiosidad",Naturaleza
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,ESP - Neox 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117183
+#EXTINF:-1,INF-Nick 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1387
+#EXTINF:-1,INF-Nick 2 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1390
+#EXTINF:-1,ESP - Nick Jr 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117270
+#EXTINF:-1,INF-Nick Jr 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1392
+#EXTINF:-1,ESP - Nickelodeon 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117272
+#EXTINF:-1,INF-Nickelodeon 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/26885
+#EXTINF:-1,INF-Nicktoons 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1394
+#EXTINF:-1 channel-id="pluto-60492ee6375a3900079a158c" tvg-id="60492ee6375a3900079a158c" tvg-chno="966" tvg-logo="https://images.pluto.tv/channels/60492ee6375a3900079a158c/colorLogoPNG.png" group-title="En Español",Nosey escándalos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492ee6375a3900079a158c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5e84dbf4a838b60007ffbba1" tvg-id="5e84dbf4a838b60007ffbba1" tvg-chno="937" tvg-logo="https://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="En Español",Novelas con la abuela
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,COL-NTN24 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/118365
+#EXTINF:-1,VEN-Nubeh TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153990
+#EXTINF:-1 channel-id="pluto-5e6690befbdf780007f78158" tvg-id="5e6690befbdf780007f78158" tvg-chno="963" tvg-logo="https://images.pluto.tv/channels/5e6690befbdf780007f78158/colorLogoPNG.png" group-title="En Español",Nuestra Visión
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6690befbdf780007f78158/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religioso",Nuevo Tiempo
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1,ESP - Odisea 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117181
+#EXTINF:-1 tvg-id="5f2acdab16f5b3000721ae2c" tvg-chno="275" tvg-logo="https://images.pluto.tv/channels/5f2acdab16f5b3000721ae2c/colorLogoPNG.png" group-title="Curiosidad",Oh My Pet
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2acdab16f5b3000721ae2c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,RPD-Onda TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153964
+#EXTINF:-1,ECU-Oromar Tv 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1100
+#EXTINF:-1,Ovacion 
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1,PER-Ovacion TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153598
+#EXTINF:-1,Ovación TV 
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1,Oye Arnold!  
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37861
+#EXTINF:-1 tvg-id="pac12network.us" tvg-name="Pac-12 Network" tvg-logo="https://i.postimg.cc/Bt9HXxn8/Pac-12-Networks.png" group-title="United States",Pac-12 Network
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/684756
+#EXTINF:-1,Padre De Familia 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37764
+#EXTINF:-1 tvg-id="5f4fed840a2764000720d966" tvg-chno="272" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="Curiosidad",Paisajes por Stingray
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Panamericana 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/107207
+#EXTINF:-1,PER-Panamericana 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153588
+#EXTINF:-1,VEN-Panavision 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153992
+#EXTINF:-1,PAR-Paraguay TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/60126
+#EXTINF:-1,ESP - Paramount Channel 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117259
+#EXTINF:-1 channel-id="pluto-612ce5214bb5790007ad3016" tvg-id="612ce5214bb5790007ad3016" tvg-chno="320" tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png" group-title="Crimen y misterio",Paranormal
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612ce5214bb5790007ad3016/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,PAR-Paravision 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/60127
+#EXTINF:-1,Patoaventuras 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37877
+#EXTINF:-1,Paw Patrol 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37818
+#EXTINF:-1,Pedro Infante 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/54862
+#EXTINF:-1 channel-id="pluto-60fb2f47c133270007327375" tvg-id="60fb2f47c133270007327375" tvg-chno="903" tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG.png" group-title="En Español",Pelis y Popcorn
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Peppa Pig 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37829
+#EXTINF:-1,Per - Peru Magico
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22151
+#EXTINF:-1,Phineas y Ferb  
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37851
+#EXTINF:-1,Pinky y Cerebro 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37833
+#EXTINF:-1 tvg-id="5dd6dc7480e3550009133d4a" tvg-chno="283" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="Curiosidad",Pluto TV Velocidad​
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Pocoyo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37827
+#EXTINF:-1,Pokemon 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37824
+#EXTINF:-1,Popeye El Marino 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37855
+#EXTINF:-1,Popular TV Melilla 
+https://5940924978228.streamlock.net/8009/8009/master.m3u8
+#EXTINF:-1 fox group-title="Musica",Portal fox mix 
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1,Portalfoxmix 
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1,MEX-Presumiendo Mexico 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153567
+#EXTINF:-1,INF-Princesa Sofia  
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1382
+#EXTINF:-1,PR-Punto 2 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153314
+#EXTINF:-1,HON-Q'HUBO TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153924
+#EXTINF:-1,Ranma ½ 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/38449
+#EXTINF:-1,MEX-RCG 1 Saltillo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153568
+#EXTINF:-1,MEX-RCG 2 Saltillo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153569
+#EXTINF:-1,MEX-RCG 3 Saltillo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153570
+#EXTINF:-1,RCG TV-2 
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1,COL-RCN  
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22137
+#EXTINF:-1,COL-RCN Internacional 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/118354
+#EXTINF:-1,COL-RCN Novelas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22133
+#EXTINF:-1,COL-RCN Novelas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/59854
+#EXTINF:-1,RPD-Ready Television 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153972
+#EXTINF:-1 tvg-id="5dcde197f6591d0009839e04" tvg-chno="251" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="Curiosidad",Reality
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="609062295c2b8f0007199e7a" tvg-chno="555" tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png" group-title="Estilo de Vida",Recetas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Religioso",Red Advenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Advenir ES" tvg-logo="https://i.postimg.cc/bvHj5hYr/Red-Advenir.jpg" group-title="Spain",Red Advenir 
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/13524
+#EXTINF:-1,CR-Repretel 11 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153885
+#EXTINF:-1,CR-Repretel 4 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153886
+#EXTINF:-1,CR-Repretel 6 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153887
+#EXTINF:-1,GUA-Retro Tv 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/60141
+#EXTINF:-1,Rick y Morty 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37850
+#EXTINF:-1,Robotech 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/38455
+#EXTINF:-1,Rocco TV 
+http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8
+#EXTINF:-1,PAR-RPC 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1229
+#EXTINF:-1,VEN-RT Ñ 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153987
+#EXTINF:-1,MEX-RTQ 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153548
+#EXTINF:-1,ECU-RTS Costa 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1103
+#EXTINF:-1,Ruidos FM 
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
+#EXTINF:-1,ARG-Rural 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22119
+#EXTINF:-1,Sagas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37915
+#EXTINF:-1,Sailor Moon 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/38446
+#EXTINF:-1,Sailor Moon Crystal 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37842
+#EXTINF:-1,Sakura Card Captor 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37844
+#EXTINF:-1 channel-id="pluto-60d393e5579a420007ee553c" tvg-id="60d393e5579a420007ee553c" tvg-chno="965" tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png" group-title="En Español",Sala de parejas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d393e5579a420007ee553c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Sam y Cat 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37770
+#EXTINF:-1,Samurai X 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37836
+#EXTINF:-1 channel-id="pluto-5cf96b1c4f1ca3f0629f4bf0" tvg-id="5cf96b1c4f1ca3f0629f4bf0" tvg-chno="902" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="En Español",Séptimo arte
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Series Clasica
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1,Sexo en la ciudad 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37749
+#EXTINF:-1,SHE-RA La princesa del poder 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37849
+#EXTINF:-1,Showtime Beyond
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/2117
+#EXTINF:-1,SiTV
+http://190.122.104.221/Player/sitv.m3u8
+#EXTINF:-1,Slam Dunk   
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37843
+#EXTINF:-1 channel-id="pluto-5317bfebff98025b3200ff99" tvg-id="5317bfebff98025b3200ff99" tvg-chno="696" tvg-logo="https://images.pluto.tv/channels/5317bfebff98025b3200ff99/colorLogoPNG.png" group-title="Explore",Slow TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,SmallVille 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37928
+#EXTINF:-1 tvg-id="" tvg-name="Smash Bella Italia Radio" tvg-logo="https://i.postimg.cc/3RccrS3J/Smash-Bella-Italia.png" group-title="Canales Musicales",Smash Bella Italia Radio
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/694581
+#EXTINF:-1 tvg-id="" tvg-name="Smash Country" tvg-logo="https://i.postimg.cc/RFQR3g1z/Smash-Country.png" group-title="Canales Musicales",Smash Country
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/694575
+#EXTINF:-1 tvg-id="" tvg-name="Smash House of Rock" tvg-logo="https://i.postimg.cc/mkY0g3kc/Smash-Housr-Rock.png" group-title="Canales Musicales",Smash House of Rock
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/694574
+#EXTINF:-1 tvg-id="" tvg-name="Smash Jazz" tvg-logo="https://i.postimg.cc/7h5kPJ70/Smash-Jazz.png" group-title="Canales Musicales",Smash Jazz
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/694573
+#EXTINF:-1 tvg-id="" tvg-name="Smash Jazz Notes Radio" tvg-logo="https://i.postimg.cc/DZ67CKQp/Smash-Jazz-Club.png" group-title="Canales Musicales",Smash Jazz Notes Radio
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/694579
+#EXTINF:-1 tvg-id="" tvg-name="Smash Radio 104.6FM" tvg-logo="https://i.postimg.cc/pdgj2zgM/Smash-Radio-104-6-FM.png" group-title="Canales Musicales",Smash Radio 104.6FM
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/694578
+#EXTINF:-1 tvg-id="" tvg-name="Smash Rock Classics Radio" tvg-logo="https://i.postimg.cc/HL4mxCNW/Smash-Rock-Classic.png" group-title="Canales Musicales",Smash Rock Classics Radio
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/694580
+#EXTINF:-1,Smithsonian Channel Latino 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1066
+#EXTINF:-1,PAR-SNT 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/60119
+#EXTINF:-1,ESP - SOMOS 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117228
+#EXTINF:-1 channel-id="pluto-60492bb931054f00073c0b4e" tvg-id="60492bb931054f00073c0b4e" tvg-chno="942" tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/colorLogoPNG.png" group-title="En Español",Sony Canal Comedias
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492bb931054f00073c0b4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-605e479d5b8229000763e697" tvg-id="605e479d5b8229000763e697" tvg-chno="949" tvg-logo="https://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png" group-title="En Español",Sony Canal Escape Perfecto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605e479d5b8229000763e697/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,South Park 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37754
+#EXTINF:-1 tvg-id="609ae5cd48d3200007b0a98e" tvg-chno="511" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" group-title="Comedia",South Park
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Spartacus 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37756
+#EXTINF:-1 channel-id="pluto-5d8d11baeb31c5a43b77bf59" tvg-id="5d8d11baeb31c5a43b77bf59" tvg-chno="951" tvg-logo="https://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG.png" group-title="En Español",Spike ¡extremo!
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Star Wars 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37930
+#EXTINF:-1,Star+ 1 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/140904
+#EXTINF:-1,Star+ 2 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/140905
+#EXTINF:-1,USA-Starz Cinema 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1567
+#EXTINF:-1,Starz East
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/2112
+#EXTINF:-1,Starz Encore Action 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/2114
+#EXTINF:-1,Starz Encore Suspense
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/2102
+#EXTINF:-1,Starz Encore Western
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/2103
+#EXTINF:-1,USA-Starz Kids & Family 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1557
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="Sundance TV ES" tvg-logo="https://i.postimg.cc/6Qfwndg8/Sundance-TV-2014.jpg" group-title="Spain",Sundance TV ES
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/14121
+#EXTINF:-1,Super Campeones 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37828
+#EXTINF:-1,Super Campeones 2002 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37817
+#EXTINF:-1,RPD-Super TV 55 Santiago 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153965
+#EXTINF:-1,Superman 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/58181
+#EXTINF:-1,Supernatural 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37777
+#EXTINF:-1,Supertienda 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/63075
+#EXTINF:-1,Supervivencia 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/40282
+#EXTINF:-1,Suspenso 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37923
+#EXTINF:-1,RPD-t11
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3658
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Taber-TV-Canal-17-El-Salvador-en-vivo-Online.png" group-title="Religioso",Taber TV
+https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8
+#EXTINF:-1,SAL-Taber TV
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/23377
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 1" tvg-logo="https://i.postimg.cc/HL3YFqHY/Taquilla.png" group-title="Spain",Taquilla 1
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7211
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 2 ES" tvg-logo="https://i.postimg.cc/HL3YFqHY/Taquilla.png" group-title="Spain",Taquilla 2 
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/8755
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 5" tvg-logo="https://i.postimg.cc/HL3YFqHY/Taquilla.png" group-title="Spain",Taquilla 5
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7207
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 7 ES" tvg-logo="https://i.postimg.cc/HL3YFqHY/Taquilla.png" group-title="Spain",Taquilla 7 
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/8750
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 8" tvg-logo="https://i.postimg.cc/HL3YFqHY/Taquilla.png" group-title="Spain",Taquilla 8
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/13520
+#EXTINF:-1 tvg-id="5f998c1fc54853000797bacd" tvg-chno="556" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png" group-title="Estilo de Vida",Tastemade
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,ECU-TC Television Costa 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1106
+#EXTINF:-1,ESP - TCM 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117250
+#EXTINF:-1,SAL-TCS
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3743
+#EXTINF:-1,URU-TCS
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/59835
+#EXTINF:-1,CR-TD+ 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153881
+#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="Tele Madrid ES" tvg-logo="https://i.postimg.cc/Xq25cmBD/Tele-Madrid.png" group-title="Spain",Tele Madrid 
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/679745
+#EXTINF:-1,CUB - Tele Marti 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/119687
+#EXTINF:-1,CR-Tele Uno 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153888
+#EXTINF:-1,ECU-Teleamazona Costa 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22156
+#EXTINF:-1,RPD-Teleantillas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/53653
+#EXTINF:-1,HON-Telecadena 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153925
+#EXTINF:-1,COL-TeleCafe 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/5359
+#EXTINF:-1,RPD-Telecanal 28 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153968
+#EXTINF:-1,HON-TeleCeiba 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153921
+#EXTINF:-1,RPD-Telecentro 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/53654
+#EXTINF:-1,ESP - Telecinco 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117164
+#EXTINF:-1,Telefe 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/101841
+#EXTINF:-1,ARG-Telefe Internacional  
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153865
+#EXTINF:-1 tvg-logo="http://telefides.com/wp-content/uploads/2017/06/telefides-logo.png" group-title="Religioso",TeleFides
+https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
+#EXTINF:-1,PAR-Telefuturo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/60130
+#EXTINF:-1,RPD-Telefuturo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3653
+#EXTINF:-1,MEX-Telehit Musica
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1360
+#EXTINF:-1,MUS-Telehit Musica Plus
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/26940
+#EXTINF:-1,ESP - Telemadrid 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117261
+#EXTINF:-1,ARG-Telemax 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22122
+#EXTINF:-1,Telemax 
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:-1,MEX-Telemax Hermosillo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153573
+#EXTINF:-1,COL-Telemedellin 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/118358
+#EXTINF:-1,PAN-Telemetro 13 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1265
+#EXTINF:-1,PR-Telemicro 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3268
+#EXTINF:-1,RPD-Telemicro viva 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3648
+#EXTINF:-1,RPD-Telemicro viva 5
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3646
+#EXTINF:-1,MEX-Telemundo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1362
+#EXTINF:-1,NOV-Telemundo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1277
+#EXTINF:-1,Telemundo 47 New York 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/103683
+#EXTINF:-1,Telemundo 48 San Francisco 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/103684
+#EXTINF:-1,Telemundo 52 Los Angeles 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/103686
+#EXTINF:-1,Telemundo 60 San Antonio 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/103687
+#EXTINF:-1,NOV-Telemundo Dallas KXTX 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1274
+#EXTINF:-1,NOV-Telemundo Internacional 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1278
+#EXTINF:-1,Telemundo Las Vegas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/104126
+#EXTINF:-1,NOV-Telemundo Phoenix KTAZ 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1270
+#EXTINF:-1,PR-Telemundo Puerto Rico 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153316
+#EXTINF:-1,Telemundo Puerto Rico 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/107184
+#EXTINF:-1,NOV-Telemundo San Fransico KSTS 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1269
+#EXTINF:-1 channel-id="pluto-5cf96cc422df39f1a338d165" tvg-id="5cf96cc422df39f1a338d165" tvg-chno="933" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="En Español",Telemundo telenovelas clásicas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,COL-Telepacifico 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/118410
+#EXTINF:-1,HON-TeleProgreso 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153922
+#EXTINF:-1,Teleritmo 
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="https://vhx.imgix.net/christianculturalcenter/assets/bba8e752-49d3-4fc8-b595-58443b514af0-f7a3f321.png?auto=format%2Ccompress&fit=crop&h=720&w=1280" group-title="Religioso",Telesistema
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1,MEX-Telesistema 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153549
+#EXTINF:-1,Telesistema 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/100798
+#EXTINF:-1,NOT-TeleSur
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1298
+#EXTINF:-1,VEN-Telesur 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153983
+#EXTINF:-1,TeleSUR Costa Rica 
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1,CR-Teletica 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153883
+#EXTINF:-1,RPD-Teleunion 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3650
+#EXTINF:-1,RPD-Teleuniverso 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3651
+#EXTINF:-1,VEN-Televen 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153985
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eg47wmv.jpg" group-title="Religioso",Televid
+https://api.new.livestream.com/accounts/28238881/events/8574038/live.m3u8
+#EXTINF:-1,MEX-Televisa Puebla 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1346
+#EXTINF:-1,GUA-Televisiete
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153907
+#EXTINF:-1,TEN Canal 10 
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+#EXTINF:-1,Terror 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37918
+#EXTINF:-1,The Big Bang Theory 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/53237
+#EXTINF:-1 channel-id="pluto-5f4ff8c8bcf3d600078af3eb" tvg-id="5f4ff8c8bcf3d600078af3eb" tvg-chno="616" tvg-logo="https://images.pluto.tv/channels/5f4ff8c8bcf3d600078af3eb/colorLogoPNG.png" group-title="Home + DIY",The Design Network
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4ff8c8bcf3d600078af3eb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5ea71d48af1d0b0007d837f4" tvg-chno="308" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" group-title="Maratones",The New Detectives
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,The Office 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/61988
+#EXTINF:-1 tvg-id="5ebacbcae43a6d000787b88e" tvg-chno="505" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="Comedia",The Pet Collective
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5f1abf097eb06300079b30f7" tvg-chno="530" tvg-logo="https://images.pluto.tv/channels/5f1abf097eb06300079b30f7/colorLogoPNG.png" group-title="Comedia",The Pet Collective
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abf097eb06300079b30f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1abf097eb06300079b30f7" tvg-id="5f1abf097eb06300079b30f7" tvg-chno="865" tvg-logo="https://images.pluto.tv/channels/5f1abf097eb06300079b30f7/colorLogoPNG.png" group-title="LOL",The Pet Collective
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abf097eb06300079b30f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5e82bb378601b80007b4bd78" tvg-id="5e82bb378601b80007b4bd78" tvg-chno="914" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="En Español",The Walking Dead en español
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="Canal Documentales",ThePetCollective
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Tierra Mía TV 
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
+#EXTINF:-1,Tiro Loco McGraw 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/63331
+#EXTINF:-1,MEX-Tlnovelas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153536
+#EXTINF:-1,TLT 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/107202
+#EXTINF:-1,ARG-TN 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22124
+#EXTINF:-1,GUA-TN23 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/60142
+#EXTINF:-1,ESP - TNT 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117252
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT" tvg-logo="https://i.postimg.cc/JnRr2TZ3/TNT-2016.jpg" group-title="Spain",TNT
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/7177
+#EXTINF:-1,CHI-TNT Sports
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153872
+#EXTINF:-1,Tom and Jerry The Classic  
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37859
+#EXTINF:-1,INF-Tooncast 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1396
+#EXTINF:-1 tvg-id="60d356a534f63f000850cdd7" tvg-chno="51" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" group-title="Nuevo en Pluto TV",Top Gear
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-61325566b3c86a00078e4819" tvg-id="61325566b3c86a00078e4819" tvg-chno="950" tvg-logo="https://images.pluto.tv/channels/61325566b3c86a00078e4819/colorLogoPNG.png" group-title="En Español",Top Gear en español
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61325566b3c86a00078e4819/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,ESP - Toros TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117206
+#EXTINF:-1,MEX-TRC TV Campeche 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153574
+#EXTINF:-1,PAR-Trece
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/60129
+#EXTINF:-1 tvg-id="5f1aae8c65727d0007d15a17" tvg-chno="325" tvg-logo="https://images.pluto.tv/channels/5f1aae8c65727d0007d15a17/colorLogoPNG.png" group-title="MTV en Pluto TV",TROL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aae8c65727d0007d15a17/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Tropa Goofy 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37862
+#EXTINF:-1,RPD-TuMusica
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/53659
+#EXTINF:-1 tvg-id="6076c74daa05ac0007d0eb07" tvg-chno="306" tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" group-title="MTV en Pluto TV",Tuning
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076c74daa05ac0007d0eb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-6076c74daa05ac0007d0eb07" tvg-id="6076c74daa05ac0007d0eb07" tvg-chno="410" tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" group-title="MTV en Pluto TV",Tuning
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076c74daa05ac0007d0eb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,MEX-TV Lobo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153575
+#EXTINF:-1,PER-TV Peru 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/59877
+#EXTINF:-1,ARG-TV Publica 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22125
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Religioso",TV Venezuela
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
+#EXTINF:-1,CHI-TV+ 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/69931
+#EXTINF:-1,ESP - TVE Internacional 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117152
+#EXTINF:-1,Tves 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/107205
+#EXTINF:-1,SAL- TVES Canal 10 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/69999
+#EXTINF:-1,TVGE
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
+#EXTINF:-1,TVM Córdoba
+http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
+#EXTINF:-1,TVMÁS 
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
+#EXTINF:-1,CHI-TVN 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/36500
+#EXTINF:-1,TVN 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1019
+#EXTINF:-1,PAN-Tvn Canal 2 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/118417
+#EXTINF:-1,PER-TVP
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/5275
+#EXTINF:-1,CHI-TVU Concepcion
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1797
+#EXTINF:-1,CHI-UCV 3
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1780
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/f67fad1f4bbfcb3e312c2211a903bd4e.png" group-title="Religioso", UMTV 
+https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Un Show Mas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37881
+#EXTINF:-1,Una familia de Diez  
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37776
+#EXTINF:-1,HON-Une TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153923
+#EXTINF:-1,MEX-Unicable
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1365
+#EXTINF:-1,PAR-Unicanal 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/60134
+#EXTINF:-1,NOV-Unimas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/1282
+#EXTINF:-1,NOV-Unimas Georgia 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/99081
+#EXTINF:-1,BOL-Unitel 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153976
+#EXTINF:-1,NOV-Universo 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/69572
+#EXTINF:-1,Universo DC 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37916
+#EXTINF:-1,Universo Marvel 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37907
+#EXTINF:-1,NOV-Univision 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/69972
+#EXTINF:-1,Univision Los Angeles 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/103663
+#EXTINF:-1,Univision Miami 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/103664
+#EXTINF:-1,PR-Univision Puerto Rico 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/3267
+#EXTINF:-1,NOV-Univision Telenovelas 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/99083
+#EXTINF:-1,NOV-Univision West 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/99084
+#EXTINF:-1,Uruguay   
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153823
+#EXTINF:-1 tvg-id="5f28009b150b2500077766b8" tvg-chno="520" tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="Comedia",Vaya semanita
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f28009b150b2500077766b8" tvg-id="5f28009b150b2500077766b8" tvg-chno="510" tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="Comedia",Vaya semanita
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Ve Plus 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/107201
+#EXTINF:-1,URU-Vera + 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22185
+#EXTINF:-1 channel-id="pluto-6049295e7dcef800073c2499" tvg-id="6049295e7dcef800073c2499" tvg-chno="915" tvg-logo="https://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG.png" group-title="En Español",Viaje a las estrellas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c2499/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-chno="551" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="Estilo de Vida",Viajes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,HON-Vica TV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153926
+#EXTINF:-1,Victorious 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37778
+#EXTINF:-1 tvg-id="5df265697ec3510009df1ef0" tvg-chno="267" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="Curiosidad",Vida Real
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Vikingos
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/63771
+EXTINF:-1,CUB - VISION 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153895
+#EXTINF:-1,ARG-Volver 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/22128
+#EXTINF:-1,URU-VTV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/5273
+#EXTINF:-1,VTV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/100807
+#EXTINF:-1,VTV 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/105830
+#EXTINF:-1,URU-VTV Plus
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153858
+#EXTINF:-1,Walker Texas Ranger 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37762
+#EXTINF:-1,PR-Wapa 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153320
+#EXTINF:-1,PR-Wapa Deportes
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/153315
+#EXTINF:-1,Willax 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/107220
+#EXTINF:-1,Winnie de Pooh 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/44376
+#EXTINF:-1 tvg-id="5ed6828192e8b3000743ef61" tvg-chno="314" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="Maratones",Wipe Out
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-604f8125c6669b00077f7699" tvg-id="604f8125c6669b00077f7699" tvg-chno="855" tvg-logo="https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png" group-title="LOL",Wipeout
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604f8125c6669b00077f7699/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,WOW TV 
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1,Xena warrior princess 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37781
+#EXTINF:-1,Xica Da Silva 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/62997
+#EXTINF:-1,X-Men 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37924
+#EXTINF:-1,ESP - XTRM 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117253
+#EXTINF:-1 tvg-id="" tvg-name="XTRM" tvg-logo="https://i.postimg.cc/5N6b2TgK/Xtrm-2021.png" group-title="Spain",XTRM
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/13527
+#EXTINF:-1 channel-id="pluto-604930bc28b24d0007e0e171" tvg-id="604930bc28b24d0007e0e171" tvg-chno="974" tvg-logo="https://images.pluto.tv/channels/604930bc28b24d0007e0e171/colorLogoPNG.png" group-title="En Español",Yu-Gi-Oh! en español
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604930bc28b24d0007e0e171/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Zenki 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37759
+#EXTINF:-1,Zoey 101 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/37780
+#EXTINF:-1,Zoids 
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/63382
+#EXTINF:-1,Zol106 
+https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8 
