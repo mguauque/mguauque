@@ -1,21 +1,143 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="mtv.music.gb" tvg-name="MTV Music" tvg-logo="" group-title="UK: Music",MTV Music
-http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/20178.ts
-#EXTINF:-1 tvg-id="60a26a056d55b30007918d5a" tvg-chno="55" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="Nuevo en Pluto TV",MTV Music Made in Spain
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-60a26a056d55b30007918d5a" tvg-id="60a26a056d55b30007918d5a" tvg-chno="705" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="Música",MTV Music Made in Spain
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="mtvmusic.uk" tvg-name="MTV Music UK" tvg-logo="https://i.postimg.cc/sxxB3Gx7/MTV_Music_2021.jpg" group-title="United Kingdom",MTV Music UK
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/692610
-#EXTINF:-1 tvg-id="mtv.omg.gb" tvg-name="MTV OMG" tvg-logo="" group-title="UK: Music",MTV OMG
-http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/36767.ts
-#EXTINF:-1 channel-id="pluto-61ea759737679900078ff559" tvg-id="61ea759737679900078ff559" tvg-chno="55" tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="Nuevo en Pluto TV",MTV Party Music
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61ea759737679900078ff559/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="classic.rock.gb" tvg-name="MTV ROCKS" tvg-logo="http://files.rednetcontent.com/chlogo/MTV_Rocks.png" group-title="UK: Music",MTV ROCKS
-http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/20177.ts
-#EXTINF:-1 channel-id="pluto-5d14fdb8ca91eedee1633117" tvg-id="5d14fdb8ca91eedee1633117" tvg-chno="869" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="Music",MTV Spankin' New
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="mtv.gb" tvg-name="MTV UK" tvg-logo="http://files.rednetcontent.com/chlogo/MTV_Canada_logo.png" group-title="UK: Music",MTV UK
-http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/20987.ts
-#EXTINF:-1 tvg-id="" tvg-name="----- Music -----" tvg-logo="" group-title="Italy",Music 
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686363
+#EXTINF:-1 group-title="Canales de Cine & Series", A&E
+http://181.78.10.235:58002/play/a0cl/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", AMC
+http://181.78.10.235:58002/play/a0b4/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", ATRES SERIES
+http://181.78.10.235:58002/play/a0cp/index.m3u8
+#EXTINF:-1 group-title="Canales de Documentales", Animal Planet
+http://181.78.10.235:58002/play/a0ap/index.m3u8
+#EXTINF:-1 group-title="Canales de Noticias", BBC World
+http://181.78.10.235:58002/play/a0cd/index.m3u8
+#EXTINF:-1 group-title="Canales Infantiles", Baby TV
+http://181.78.10.235:58002/play/a0c7/index.m3u8
+#EXTINF:-1 group-title="Canales de Noticias", CNN Espaæol
+http://181.78.10.235:58002/play/a0cc/index.m3u8
+#EXTINF:-1 group-title="Canales de Noticias", CNN International
+http://181.78.10.235:58002/play/a0ce/index.m3u8
+#EXTINF:-1 group-title="Canales de Noticias", CableNoticias
+http://181.78.10.235:58002/play/a0bo/index.m3u8
+#EXTINF:-1 group-title="Canales Familiares", Canal  Capital
+http://181.78.10.235:58002/play/a0an/index.m3u8
+#EXTINF:-1 group-title="Canales Familiares", Canal 13
+http://181.78.10.235:58002/play/a0be/index.m3u8
+#EXTINF:-1 group-title="Canales Familiares", Canal Institucional
+http://181.78.10.235:58002/play/a0ai/index.m3u8
+#EXTINF:-1 group-title="Canales Familiares", Canal TRO
+http://181.78.10.235:58002/play/a0al/index.m3u8
+#EXTINF:-1 group-title="Canales Familiares", Caracol
+http://181.78.10.235:58002/play/a0aj/index.m3u8
+#EXTINF:-1 group-title="Canales Familiares", City TV
+http://181.78.10.235:58002/play/a0c5/index.m3u8
+#EXTINF:-1 group-title="Canales de Entretenimiento", Comedy Central
+http://181.78.10.235:58002/play/a0b1/index.m3u8
+#EXTINF:-1 group-title="Canales Religiosos", Cristovisiðn
+http://181.78.10.235:58002/play/a0ax/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", De Pelicula
+http://181.78.10.235:58002/play/a0bw/index.m3u8
+#EXTINF:-1 group-title="Canales de Documentales", Discovery Channel
+http://181.78.10.235:58002/play/a0as/index.m3u8
+#EXTINF:-1 group-title="Canales Infantiles", Discovery Kids
+http://181.78.10.235:58002/play/a0ao/index.m3u8
+#EXTINF:-1 group-title="Canales Deportivos", Discovery Turbo
+http://181.78.10.235:58002/play/a0by/index.m3u8
+#EXTINF:-1 group-title="Canales de Documentales", Disney Channel
+http://181.78.10.235:58002/play/a0bf/index.m3u8
+#EXTINF:-1 group-title="Canales de Entretenimiento", El Gourmet
+http://181.78.10.235:58002/play/a0bk/index.m3u8
+#EXTINF:-1 group-title="Canales de Noticias", Enlace
+http://181.78.10.235:58002/play/a0aw/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", Epoca
+http://181.78.10.235:58002/play/a0c6/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", Eurochannel
+http://181.78.10.235:58002/play/a0cf/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", Europa Europa
+http://181.78.10.235:58002/play/a0b5/index.m3u8
+#EXTINF:-1 group-title="Canales Deportivos", FOX Sports
+http://181.78.10.235:58002/play/a0ay/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", Film&Arts
+http://181.78.10.235:58002/play/a0at/index.m3u8
+#EXTINF:-1 group-title="Canales Deportivos", GOLPERU
+http://181.78.10.235:58002/play/a0c1/index.m3u8
+#EXTINF:-1 group-title="Canales Familiares", Globovision
+http://181.78.10.235:58002/play/a0b9/index.m3u8
+#EXTINF:-1 group-title="Canales Deportivos", Gol TV
+http://181.78.10.235:58002/play/a0cj/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", HBO Family
+http://181.78.10.235:58002/play/a0cq/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", HBO MUNDI
+http://181.78.10.235:58002/play/a0bx/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", HBO POP
+http://181.78.10.235:58002/play/a0cv/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", HBO Plus
+http://181.78.10.235:58002/play/a0cs/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", HBO Signature
+http://181.78.10.235:58002/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", HBO XTREME
+http://181.78.10.235:58002/play/a0cr/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", HGTV
+http://181.78.10.235:58002/play/a0bi/index.m3u8
+#EXTINF:-1 group-title="Canales Familiares", HTV
+http://181.78.10.235:58002/play/a0bm/index.m3u8
+#EXTINF:-1 group-title="Canales Familiares", Hola TV
+http://181.78.10.235:58002/play/a0av/index.m3u8
+#EXTINF:-1 group-title="Canales Familiares", Las Estrellas
+http://181.78.10.235:58002/play/a0b8/index.m3u8
+#EXTINF:-1 group-title="Canales de Entretenimiento", Lifetime
+http://181.78.10.235:58002/play/a0bs/index.m3u8
+#EXTINF:-1 group-title="Canales Musicales", MTV Hits
+http://181.78.10.235:58002/play/a0cb/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", Movistar TV
+http://181.78.10.235:58002/play/a0af/index.m3u8
+#EXTINF:-1 group-title="Canales de Noticias", NTN 24 Horas
+http://181.78.10.235:58002/play/a0bn/index.m3u8
+#EXTINF:-1 group-title="Canales Musicales", Nick Music
+http://181.78.10.235:58002/play/a0cx/index.m3u8
+#EXTINF:-1 group-title="Canales Familiares", RCN Nuestra Tele
+http://181.78.10.235:58002/play/a0bd/index.m3u8
+#EXTINF:-1 group-title="Canales Familiares", RCN
+http://181.78.10.235:58002/play/a0bc/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", STAR CHANNEL
+http://181.78.10.235:58002/play/a0b2/index.m3u8
+#EXTINF:-1 group-title="Canales Familiares", Señal Colombia
+http://181.78.10.235:58002/play/a0bb/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", Space
+http://181.78.10.235:58002/play/a0bu/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", Studio Universal
+http://181.78.10.235:58002/play/a0bt/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", TLC
+http://181.78.10.235:58002/play/a0c9/index.m3u8
+#EXTINF:-1 group-title="Canales de Documentales", TLT
+http://181.78.10.235:58002/play/a0ba/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", TNT
+http://181.78.10.235:58002/play/a0cn/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", TNT
+http://181.78.10.235:58002/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="Canales Deportivos", TNT SPORTS 2
+http://181.78.10.235:58002/play/a0bq/index.m3u8
+#EXTINF:-1 group-title="Canales Deportivos", TNT SPORTS 3
+http://181.78.10.235:58002/play/a0az/index.m3u8
+#EXTINF:-1 group-title="Canales de Cine & Series", TNT Series
+http://181.78.10.235:58002/play/a0co/index.m3u8
+#EXTINF:-1 group-title="Canales Familiares", Teleantioquia
+http://181.78.10.235:58002/play/a0c4/index.m3u8
+#EXTINF:-1 group-title="Canales Familiares", Telecafe
+http://181.78.10.235:58002/play/a0am/index.m3u8
+#EXTINF:-1 group-title="Canales Familiares", Telecaribe
+http://181.78.10.235:58002/play/a0ak/index.m3u8
+#EXTINF:-1 group-title="Canales Familiares", Telefe
+http://181.78.10.235:58002/play/a0bp/index.m3u8
+#EXTINF:-1 group-title="Canales Familiares", Telepacifico
+http://181.78.10.235:58002/play/a0c3/index.m3u8
+#EXTINF:-1 group-title="Canales Familiares", Telesur
+http://181.78.10.235:58002/play/a0c2/index.m3u8
+#EXTINF:-1 group-title="Canales Familiares", Televen
+http://181.78.10.235:58002/play/a0ah/index.m3u8
+#EXTINF:-1 group-title="Canales Infantiles", Tooncast
+http://181.78.10.235:58002/play/a0cu/index.m3u8
+#EXTINF:-1 group-title="Canales de Entretenimiento", Travel and Living Channel
+http://181.78.10.235:58002/play/a0ca/index.m3u8
+#EXTINF:-1 group-title="Canales de Documentales", Tru TV
+http://181.78.10.235:58002/play/a0cm/index.m3u8
+#EXTINF:-1 group-title="Canales Deportivos", Win Sports
+http://181.78.10.235:58002/play/a0b0/index.m3u8
