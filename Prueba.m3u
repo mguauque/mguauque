@@ -1,4 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Canales de Cine & Series", TSI
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/k3q8hF4Y9tzpTgwu26R
+#EXTINF:-1 tvg-id="XHJKTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/1.1.png" group-title="Mexico",Azteca Uno (XHJK-TDT) (480p) [Not 24/7]
+http://190.122.96.187:8888/http/002
 
