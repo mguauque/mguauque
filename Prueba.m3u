@@ -1,3 +1,19 @@
 #EXTM3U
+#EXTINF:-1 group-title="CHILE" tvg-id="352" tvg-name="Belevision" tvg-logo="https://www.m3u.cl/logo/352_Belevision.png", Belevision  | CL
+http://v2.tustreaming.cl/belevision/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="CHILE" tvg-id="350" tvg-name="ClickTv" tvg-logo="https://www.m3u.cl/logo/350_ClickTv.png", ClickTv  | CL
+http://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="CHILE" tvg-id="167" tvg-name="Radio Vida Curico" tvg-logo="https://www.m3u.cl/logo/167_Radio_Vida_Curico.png", Radio Vida Curico  | CL
+http://v2.tustreaming.cl/radiovidacurico/live1/rewind-999999.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="CHILE" tvg-id="351" tvg-name="Restaurando Vidas TV" tvg-logo="https://www.m3u.cl/logo/351_Restaurando_Vidas_TV.png", Restaurando Vidas TV  | CL
+http://v2.tustreaming.cl/restaurandovidastv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="CHILE" tvg-id="171" tvg-name="Unidad Evangélica RADIO Live" tvg-logo="https://www.m3u.cl/logo/171_Unidad_Evangelica_RADIO_Live.jpg", Unidad Evangélica RADIO Live  | CL
+http://v2.tustreaming.cl/ueradiolive/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="CHILE" tvg-id="172" tvg-name="Unidad Evangélica Radio DIFERIDO" tvg-logo="https://www.m3u.cl/logo/172_Unidad_Evangelica_Radio_DIFERIDO.jpg", Unidad Evangélica Radio DIFERIDO  | CL
+http://v2.tustreaming.cl/ueradiorec/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="CHILE" tvg-id="405" tvg-name="Radio Cosmos" tvg-logo="https://www.m3u.cl/logo/405_Radio_Cosmos.png", Radio Cosmos  | CL
+http://v2.tustreaming.cl:80/cosmostv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="CHILE" tvg-id="406" tvg-name="AncoaTV" tvg-logo="https://www.m3u.cl/logo/406_AncoaTV.png", AncoaTV  | CL
+http://v2.tustreaming.cl:80/radioancoa/live1/index.m3u8?PlaylistM3UCL
 
 
