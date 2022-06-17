@@ -1337,7 +1337,7 @@ http://myradio.ua:8000/Disco128.mp3
 http://listen1.myradio24.com:9000/5967
 #EXTINF:-1 tvg-logo="https://ideakreativa.net/wp-content/uploads/2019/04/discover-nuevo-logo.jpg" group-title="Canales de Documentales" , Discovery Channel
 http://45.71.185.142:8500/play/a018
-#EXTINF:-1 tvg-logo="https://ideakreativa.net/wp-content/uploads/2019/04/discover-nuevo-logo.jpg" group-title="Canales Entretenimiento" , Discovery Channel
+#EXTINF:-1 tvg-logo="https://ideakreativa.net/wp-content/uploads/2019/04/discover-nuevo-logo.jpg" group-title="Canales de Entretenimiento" , Discovery Channel
 http://181.78.10.235:58002/play/a0as/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Canales de Documentales" ,DISCOVERY CHANNEL
 http://45.5.119.202:8000/play/a016/index.m3u8
