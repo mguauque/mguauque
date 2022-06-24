@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", CHIQUILINES
-https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png" group-title="Canales Infantiles" , Chiquilines
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-chiquilines-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=54BJr7WnyDHsQw89xm2F&channelId=6018913ea15130002b28418f
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png" group-title="Canales Infantiles" , Chiquilines
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-chiquilines-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=yXEjj44H1anLbCyuyjDC&channelId=6018913ea15130002b28418f
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="Canales de Cine & Series" , CGTN Español
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="Canales de Cine & Series" , CGTN Español
+http://livees.cgtn.com/500e/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="Canales de Cine & Series" , CGTN Español
+https://livees.cgtn.com/1000e/prog_index.m3u8
