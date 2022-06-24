@@ -1,4 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FqHLJmN.png" group-title="Canales de Cine & Series",MovieMex
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://mobile.coolstreaming.us/blog/diretta-tv/resize.php?src=https://www.coolstreaming.us/img/ch/image53842331283.jpg&h=60&w=130&q=50" group-title="Canales Musicales" , CAROLINA TV
+https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eaHPbqd.png" group-title="Canales Musicales" , Carolina TV
+https://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mobile.coolstreaming.us/blog/diretta-tv/resize.php?src=https://www.coolstreaming.us/img/ch/image53842331283.jpg&h=60&w=130&q=50" group-title="Canales Musicales" , CAROLINA TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sDtO3Fj8o3USUuRDDkriJCI_wqQoYA6x7puVr09kJWM0oNWYCvmzdhP45yrgqC7_fW8" group-title="Canales Musicales" , CAROLINA TV
+https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/a1f3645efd9dcde7f2c90bc14f24ddc1.png" group-title="Canales Musicales" , Carolina TV 2
+https://unlimited1-cl-isp.dps.live/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
