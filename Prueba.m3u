@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Telemedellin.co" status="online",Telemedellin (720p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta118.cdnmedia.tv/telemedellintvlive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://farra.com.py/img/news/farra1510078907.jpg" group-title="Canales Musicales" , Farra Play
+http://159.203.148.226/live/farra.m3u8
+#EXTINF:-1 tvg-logo="http://farra.com.py/img/news/farra1510078907.jpg" group-title="Canales Musicales" , Farra Play
+http://159.203.148.226/live/farra.m3u8?WebM3UCL
